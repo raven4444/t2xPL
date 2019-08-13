@@ -1,0 +1,98 @@
+use_blackjack: "Ta broñ og³uszy niespodziewaj¹cy siê ataku cel prawie bezszelestnie i niezauwa¿alnie."
+
+use_breath: "Ta mikstura pozwoli ci spêdziæ dodatkowe kilka sekund pod wod¹. Koszt:125"
+
+use_broadhead: "To ostra strza³a. Koszt:25"
+
+use_fire: "Ta strza³a wybucha przy zetkniêciu z powierzchni¹, powa¿nie rani¹c cel i zapalaj¹c ³atwopalne przedmioty, takie jak pochodnie. Nie porusza siê po torze parabolicznym, wiêc mierz w górn¹ czêœæ celownika. Koszt:225"
+
+use_flash: "Ten granat wytwarza jasny b³ysk œwiat³a oœlepiaj¹cy wrogów, ktorzy go zauwa¿¹. Koszt:200"
+
+use_gasarrow: "Ta strza³a wybucha przy zetkniêciu z powierzchni¹ chmur¹ og³uszaj¹cego gazu, usypiaj¹c wiêkszoœæ ¿ywych stworzeñ w polu ra¿enia. Nie porusza siê po torze parabolicznym, wiêc mierz w górn¹ czêœæ celownika.. Koszt:500"
+
+use_gasmine: "Ten granat posiada czujnik ruchu i nadepniêty, wytwarza chmurê og³uszaj¹cego gazu. Kiedy jest uzbrojony, mo¿esz rozbroiæ go wy³¹cznie przy u¿yciu wytrychów. . Koszt 500:"
+
+use_healing: "Ta mikstura dzia³a jak leczniczy balsam, przywracaj¹c twoje utracone zdrowie. Koszt:250"
+
+use_holywater: ""
+
+use_slowfall: "Ta mikstura zapobiega uszkodzeniom wywo³anym upadkiem z du¿ej wysokoœci w razie u¿ycia przed lub w czasie spadania. Koszt: 150"
+
+use_invisibility: "Ta mikstura czyni ciê niewidzialnym. Pamiêtaj, ¿e dzia³a tylko przez kilka sekund i nie czyni ciê nies³yszalnym. Koszt: 600"
+
+use_lockpick: "Te narzêdzia pozwol¹ ci na otwarcie wiêkszoœci zamków z niewielkim nak³adem pracy.."
+
+use_pricey_lockpick: "Te narzêdzia pozwol¹ ci na otwarcie wiêkszoœci zamków z niewielkim nak³adem pracy. Koszt: 4000 za komplet."
+
+use_mine: "Ten granat posiada czujnik ruchu i gwa³townie wybucha w razie nadepniêcia. Kiedy jest uzbrojony, mo¿esz rozbroiæ go wy³¹cznie przy u¿yciu wytrychów. Koszt 350:"
+
+use_moss: "Ta strza³a wytwarza dywanik mchu, umo¿liwiaj¹c ciche przejœcie po ha³aœliwych powierzchniach. Koszt:150"
+
+use_noisemaker: "Mechanizm w tej strzale produkuje dziwaczny dŸwiêk przy zetkniêciu z powierzchni¹; wygodny do odwracania uwagi. Koszt:250"
+
+use_rope: "Ta strza³a wbija siê w drewniane powierzchnie i rozwija przymocowan¹ do niej linê. Koszt:200"
+
+use_vine: "Ta strza³a mo¿e ukorzeniaæ siê zarówno w powierzchniach z metalu, jak i drewna. Koszt: 200."
+
+use_sword: "Jako dodatek do mo¿liwoœci robienia dziur w przeciwniku, miecz mo¿e parowaæ jego ciosy."
+
+use_water: "Strza³a wodna nie wywo³uje ¿adnych uszkodzeñ, lecz gasi pochodnie i inne p³on¹ce obiekty, a tak¿e zmywa œlady krwi. Koszt:75"
+
+use_tip: "Ktoœ chce udzieliæ ci rady... za odpowiedni¹ op³at¹. Koszt: 25"
+
+use_tip50: "Ktoœ chce udzieliæ ci rady... za odpowiedni¹ op³at¹. Koszt: 50"
+
+use_tip100: "Ktoœ chce udzieliæ ci rady... za odpowiedni¹ op³at¹. Koszt: 100"
+
+use_hammertip: "Jeden z M³otodzier¿ców jest chêtny do zaoferowania ci pewnych informacji, jednak nalega, byœ zap³aci³ za nie - cokolwiek, by nie kalaæ jego duszy pomaganiem z³odziejom. Koszt:100"
+
+use_speed: "Ta mikstura na krótki czas znacznie zwiêksza prêdkoœæ twojego biegu i chodu. Koszt: 300."
+
+use_equiptip: "Lokalny handlarz mo¿e nie mieæ potrzebnych ci przedmiotów, lecz wie, gdzie mo¿esz je zdobyæ. Koszt: 200"
+
+use_diamondtip: "Miasto oferuje wiele okazji dla wyæwiczonego z³odzieja - o ile ten wie, gdzie szukaæ. Koszt: 100"
+
+use_scripture: "Oto pierwszy ustêp Nowych Pism Mistrza Budowniczego, napisany przez Karrasa i przekazany ci przez Viktoriê."
+
+use_flare: "Ka¿da flara oœwietli twoje otoczenie przez krótki okres czasu. Koszt: 25"
+
+use_camera: "Po³¹czona jest z mechanicznym okiem Garretta, wykorzystuj¹c pewien rodzaj eterycznych wibracji, umo¿liwia mu widzenie z jej pozycji. Klawisz u¿ycia zamyka widok. Koszt: 300"
+
+use_birdcall: "To urz¹dzenie sygnalizacyjne w razie u¿ycia wydaje wyraŸny, lecz nie wywo³uj¹cy podejrzeñ dŸwiêk, umo¿liwiaj¹cy ci zawiadomienie Basso."
+
+use_frogegg: "Przemycone do Miasta wielkim kosztem przez agentów Viktorii, te przedmioty po pêkaj¹ po ciœniêciu i wytwarzaj¹ wybuchow¹ ¿abê (¿abi¹ bestiê, frog-beast), która sprzymierzy siê z tob¹.Koszt: 200"
+
+use_m12keys: "Zdoby³eœ kilka kluczy, kiedy by³eœ w rezydencji poprzednim razem. Powinny okazaæ siê przydatne."
+
+use_m12letter: "List od Karrasa do Gervaisiusa. Interesuj¹ca lektura."
+
+use_FlashMine: "Ten granat posiada czujnik ruchu i wytwarza oœlepiaj¹cy b³ysk w razie nadepniêcia. Kiedy jest uzbrojony, mo¿esz rozbroiæ go wy³¹cznie przy u¿yciu wytrychów. Koszt: 350"
+
+use_SDBoxKey: "Klucz do skrytki depozytowej Mechanistów, z którego zrobi³eœ kopiê."
+
+
+use_icecat: "Katalizator, zmieniaj¹cy twoje strza³y wodne w ich pogañskie odpowiedniki."
+
+use_firecat: "Katalizator zmieniaj¹cy twoje strza³y wodne i ogniowe w ich pogañskie odpowiedniki."
+
+use_earthcat: "Katalizator zmieniaj¹cy twoje strza³y wodne, ogniowe i ziemskie w ich pogañskie odpowiedniki."
+
+use_aircat: "Katalizator zmieniaj¹cy twoje strza³y wodne, ogniowe, ziemskie i gazowe w ich pogañskie odpowiedniki."
+
+use_hoil: "Remedium lecz¹ce rany. Koszt: 250"
+
+use_concealment: "Staro¿ytna mikstura przyt³umi odg³osy twych kroków i pomo¿e ci lepiej wtopiæ siê w cienie. Koszt: 500"
+
+use_spideregg: "Z tych jaj wykluj¹ siê potworne paj¹ki z Paszczy Chaosu - choæ nie przetrwaj¹ zbyt d³ugo poza Paszcz¹, dopóki ¿ywe, te straszliwe bestie bêd¹ atakowaæ wszystko w swoim zasiêgu. Koszt: 250"
+
+use_emp: "Mechaniczna bomba wy³¹czaj¹ca ka¿de zasilane par¹ urz¹dzenia, wliczaj¹c w to œwiat³a, kamery i roboty. Koszt: 200"
+
+use_locust: "Wydobyte z trzewi Ziemi, z tych pogañskich bomb wykluj¹ siê chmary szarañczy - zabójczych owadów, które po¿r¹ ka¿de pobliskie ludzkie zw³oki, bez wzglêdu na rozmiar. Koszt: 250"
+
+use_hairpin: "Prowizoryczny wytrych."
+
+use_malaknote: "List od Malaka."
+
+use_cavnote: "List zaadresowany do Cavadora wrabiaj¹cy Wolnych Handlarzy w kradzie¿ Kuli."
+
+use_basorb: "Kula œw. Basmusa skradziona z Mauzoleum. Zostaw j¹ w "Torbie ³akoci", by wrobiæ Wolnych Handlarzy." 

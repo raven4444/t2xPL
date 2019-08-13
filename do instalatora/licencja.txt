@@ -1,0 +1,32 @@
+Spolszczenie gry "Thief 2X: Shadows of the Metal Age".
+
+1. Informacje ogólne
+
+Niniejsza modyfikacja, nazywana dalej Spolszczeniem, ma na celu zmianê angielskiej wersji jêzykowej gry "Thief 2X: Shadows of the Metal Age" na polsk¹.
+Spolszczenie obejmuje wszystkie teksty obecne w grze, mapy oraz podpisy w filmikach, prze³o¿one na jêzyk polski. W przypadku usuniêcia modyfikacji zostan¹ przywrócone oryginalne pliki.
+
+2. Wymagania sprzêtowe
+
+Do poprawnego funkcjonowania Spolszczenia wymagana jest instalacja poni¿szych programów:
+- "Thief 2: The Metal Age" w wersji 1.18 PL wg "Thief: Antologia" wydawnictwa Cenega Poland;
+- zaaplikowanego patcha 1.19 "NewDark" do Thief 2: The Metal Age" w wersji 1.18 PL;
+- "Thief 2X: Shadow of the Metal Age" w wersji 1.1 EN autorstwa Dark Engineering Guild;
+- komputera spe³niaj¹cego wymagania sprzêtowe powy¿szych programów.
+
+3. Autorzy
+
+Spolszczenie zosta³o stworzone przez osoby fizyczne dla fanów gry. Zespó³ T³umaczy stworzy³ Spolszczenie pro publico bono i zastrzega sobie prawo do rozporz¹dzania nim w tym duchu. Autorzy nie roszcz¹ sobie praw do korzyœci maj¹tkowych, zachowuj¹c pe³niê praw w³asnoœci umys³owych. Niniejsze Spolszczenie jest oddane wy³¹cznie do u¿ytku prywatnego i nie mo¿e s³u¿yæ czerpaniu korzyœci maj¹tkowych. Autorami Spolszczenia s¹ (wg kolejnoœci alfabetycznej pseudonimów):
+
+Melissa "Keeper" Macunado
+Dawid "Mixthoor" Mitura
+Karol "Raven4444" W³odarczyk
+Adrian "Spidey" Szymañski
+Janusz "WhiteNigga" Wycisk
+
+Autorzy nie ponosz¹ odpowiedzialnoœci za szkody wynik³e z nieprawid³owego dzia³ania Spolszczenia i nie zobowi¹zuj¹ siê do udzielenia z tego tytu³u pomocy. W momencie udostêpnienia Spolszczenie zosta³o przeskanowane w serwisie VirusTotal. Instalacja Spolszczenia oznacza zobowi¹zanie siê do przejêcia odpowiedzialnoœci za ewentualne szkody.
+
+4. Licencja
+
+Modyfikacja zawiera czcionkê oraz t³umaczenia menu wraz z opcjami, czêœci¹ nazw obiektów oraz fragmentami opisów z gry "Thief 2: The Metal Age" w wersji 1.18 PL wg "Thief: Antologia" nak³adem wydawnictwa Cenega Poland. Reszta t³umaczeñ jest w³asnoœci¹ umys³ow¹ autorów i rozpowszechniana jest na licencji Creative Commons 3.0 Polska: Uznanie autorstwa-U¿ycie niekomercyjne-Na tych samych warunkach. Wykorzystano grafiki "The City" autorstwa str8g8, oraz "Woodsie Guardian" autorstwa Aria-Siaosi. Spolszczenie gry "Thief 2X: Shadows of the Metal Age" nie jest dzie³em Looking Glass Studio, Eidos Interactive b¹dŸ Ion Storm. Wszystkie prawa zastrze¿one.
+
+Wersja 1.6, 09.01.2013

@@ -1,0 +1,33 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:04.99,0:00:08.33,Default,NTP,0000,0000,0000,!Effect,"Rozchodz¹ce siê po twym ciele palce,\Ntaniec dekadenckich rozkoszy,
+Dialogue: Marked=0,0:00:08.36,0:00:11.66,Default,NTP,0000,0000,0000,!Effect,Y zapach rozpalaj¹cych przyjemnoœci\Nrozbudzaj¹ wewnêtrzne bestie.
+Dialogue: Marked=0,0:00:14.66,0:00:18.33,Default,NTP,0000,0000,0000,!Effect,Niech¿e nie zwodz¹ ciê pragnienia,\Npoci¹gaj¹ce spojrzenia, ponêtne usta.
+Dialogue: Marked=0,0:00:18.36,0:00:21.99,Default,NTP,0000,0000,0000,!Effect,Odwróæ siê od namiêtnoœci,\Nnie mów o zmys³owych refleksjach.
+Dialogue: Marked=0,0:00:24.33,0:00:26.99,Default,NTP,0000,0000,0000,!Effect,Pozwól mniejszym pieœciæ siê\Ny brykaæ w t³umach wylêgu nierz¹dnic.
+Dialogue: Marked=0,0:00:27.03,0:00:29.33,Default,NTP,0000,0000,0000,!Effect,Bowiem natchnieni Budowniczym\Nwiêksze dzie³a poczn¹."
+Dialogue: Marked=0,0:00:29.33,0:00:31.66,Default,NTP,0000,0000,0000,!Effect,"M³otów Ksiêga Zasad"\NRozdzia³ IV, Wers III
+Dialogue: Marked=0,0:00:32.16,0:00:35.33,Default,NTP,0000,0000,0000,!Effect,W liœcie do Wolnych Handlarzy\Nwidnia³o nazwisko Gormana Truarta,
+Dialogue: Marked=0,0:00:35.66,0:00:39.33,Default,NTP,0000,0000,0000,!Effect,a dok³adniej "Normana Druarta",\Njak woli siebie nazywaæ.
+Dialogue: Marked=0,0:00:39.66,0:00:44.99,Default,NTP,0000,0000,0000,!Effect,W drug¹ noc ka¿dego tygodnia odwiedza burdel, tachaj¹c swój dziennik.
+Dialogue: Marked=0,0:00:45.33,0:00:47.99,Default,NTP,0000,0000,0000,!Effect,To miejsce jest najwyraŸniej\Nwystarczaj¹co brudne i tanie,
+Dialogue: Marked=0,0:00:48.33,0:00:52.49,Default,NTP,0000,0000,0000,!Effect,aby odstraszyæ bogatych i wp³ywowych,\Nna których móg³by siê przypadkiem natkn¹æ.
+Dialogue: Marked=0,0:00:52.66,0:00:56.33,Default,NTP,0000,0000,0000,!Effect,Ha! Nawet jeœli by na siebie wpadli,
+Dialogue: Marked=0,0:00:56.39,0:00:58.66,Default,NTP,0000,0000,0000,!Effect,udawaliby, i¿ sytuacja nigdy nie mia³a miejsca.
+Dialogue: Marked=0,0:00:58.99,0:01:01.33,Default,NTP,0000,0000,0000,!Effect,Przynajmniej do czasu,\Na¿ jeden nie szanta¿owa³by drugiego...
+Dialogue: Marked=0,0:01:01.66,0:01:06.49,Default,NTP,0000,0000,0000,!Effect,Na nieszczêœcie Truarta,\Nnie jestem jednym z tych "t³ustych kotów".
+Dialogue: Marked=0,0:01:06.66,0:01:10.33,Default,NTP,0000,0000,0000,!Effect,Truart zajmuje siê\Ntêpieniem prostytucji w Mieœcie.
+Dialogue: Marked=0,0:01:10.66,0:01:12.99,Default,NTP,0000,0000,0000,!Effect,Tak przynajmniej s³ysza³am...
+Dialogue: Marked=0,0:01:13.06,0:01:15.99,Default,NTP,0000,0000,0000,!Effect,Oznacza to, ¿e mog³abym go zdemaskowaæ
+Dialogue: Marked=0,0:01:16.33,0:01:18.33,Default,NTP,0000,0000,0000,!Effect,i wykorzystaæ sytuacjê,\Nby zdobyæ nieco informacji.
+Dialogue: Marked=0,0:01:18.39,0:01:20.83,Default,NTP,0000,0000,0000,!Effect,Musze znaleŸæ dziennik,\No którym wspomina³ Neeson.
+Dialogue: Marked=0,0:01:21.16,0:01:23.33,Default,NTP,0000,0000,0000,!Effect,Jeœli jest tak szczegó³owy jak twierdzi,
+Dialogue: Marked=0,0:01:23.49,0:01:26.66,Default,NTP,0000,0000,0000,!Effect,znajdê w nim zapiski dotycz¹ce\NKedara i tego, co mu zrobili.
+Dialogue: Marked=0,0:01:26.83,0:01:29.66,Default,NTP,0000,0000,0000,!Effect,Zerknê na nie i zniknê, nim mnie nakryj¹.
+Dialogue: Marked=0,0:01:29.83,0:01:32.99,Default,NTP,0000,0000,0000,!Effect,Dziennik powinien zawieraæ równie¿ brudy naszego dobrego szeryfa.
+Dialogue: Marked=0,0:01:33.33,0:01:35.99,Default,NTP,0000,0000,0000,!Effect,Jednak uczyni³am ju¿ wystarczaj¹co, demaskuj¹c kryminalistów.
+Dialogue: Marked=0,0:01:36.33,0:01:40.66,Default,NTP,0000,0000,0000,!Effect,Nie mogê przejmowaæ siê moralnoœci¹ skorumpowanych przywódców i polityków.
+Dialogue: Marked=0,0:01:40.99,0:01:43.33,Default,NTP,0000,0000,0000,!Effect,Pragnê tylko odnaleŸæ Kedara...

@@ -1,0 +1,28 @@
+{210}{315} "Wœród niezliczonych sposobów | na utracenie Równowagi,
+{320}{440} D¹¿enie do zemsty | zaæmiewa pozosta³e.
+{580}{720} Wabi¹c nieostro¿nych, | rozs¹dnych zaœ obracaj¹c w broñ,
+{730}{830} Prowadzi g³upca, | by siêgn¹³ w³asnej zguby."
+{840}{910} "Kroniki Stra¿ników"
+{950}{970} Ucieka³am...
+{1200}{1380} Dzisiejszej nocy przestajê uciekaæ!|Dzisiejszej nocy rozpoczyna siê moja zemsta!
+{1382}{1455} Min¹³ ponad rok odk¹d Kedar...
+{1500}{1550} Odk¹d zgin¹³...
+{1560}{1720} Pozwolili, bym uciek³a,|lecz wkrótce zap³ac¹ za ten b³¹d!
+{1760}{1890} Muszê byæ cierpliwa. Mog³abym spróbowaæ zabiæ, ilu tylko zdo³am...
+{1900}{1993} Mo¿e dorwa³abym dwóch czy trzech, zanim by mnie z³apali.
+{2000}{2110} To nie wystarczy!|Za miesi¹c nic by to ju¿ nie znaczy³o.
+{2120}{2180} Oni nie dbaj¹ o siebie nawzajem.
+{2184}{2225} Popyta³am trochê w okolicy...
+{2235}{2370} Nikt nic nie wie o przemytnikach w s¹siedztwie.
+{2415}{2480} Zastanawiam siê,|czy mog³abym to wykorzystaæ...
+{2490}{2657} Z³odziej boi siê dwóch rzeczy:|"bycia okradzionym" i "bycia z³apanym na okradaniu kogoœ innego".
+{2675}{2815} Na szczêœcie mogê wykorzystaæ oba te lêki przeciw Wolnym Handlarzom.
+{2845}{2930} Popo³udniu spotka³am siê z przyjacielem Malaka w S³onecznym Porcie
+{2940}{2985} i kupi³am wszystko, co potrzebujê.
+{3000}{3100} Dzisiejszej nocy planujê zakraœæ siê|do ich siedziby,
+{3110}{3190} by wykraœæ ich bogactwa oraz tajemnice.
+{3220}{3370} Jeœli to prawda, kryjówka przemytników winna|byæ gdzieœ w podziemnym systemie jaskiñ.
+{3380}{3475} Dostanê siê tam przez sekretne wejœcie,|które widzia³am wczeœniej
+{3480}{3540} i zobaczê, czy zdo³am siê czegoœ dowiedzieæ.
+{3568}{3688} Kedar...|Wybacz, i¿ wczeœniej by³am bierna...
+{3730}{3825} Linjalo!|Dodaj mi odwagi w tym, co muszê teraz uczyniæ.

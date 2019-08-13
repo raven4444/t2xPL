@@ -1,0 +1,20 @@
+Loot_0: "Z³oto"
+Loot_1: "Klejnoty"
+Loot_2: "Inne dobra"
+Loot_total: "Razem" 
+
+set_mode_failed: "Nie mo¿na ustawiæ ¿¹danego trybu graficznego."
+
+between_key_bindings: " lub "
+no_key_bindings: "[None]"
+insert_cd_msg: "Proszê w³o¿yæ p³ytê z gr¹ do napêdu CD"
+insert_cd_title: "Brak p³yty CD!"
+
+regkey: "SOFTWARE\\Looking Glass Studios\\Thief:The Dark Project\\1.0"
+
+driver_text: "Gra Thief 2 wymaga obecnoœæi karty 3D w 100% zgodnej z DirectX 7. Jeœli nie dysponujesz odpowiednimi sterownikami do tego urz¹dzenia mo¿esz mieæ z k³opoty z uruchomieniem gry.
+
+Zawieszenia gry lub niekontrolowane wyjœcia do Windows s¹ tak¿e objawem nieprawid³owego dzia³ania karty. Zbiór aktualnych sterowników do najpopularniejszych kart 3D zawsze znajdziesz na CD Top Secret." 
+
+neveragain: "Nie pokazuj komunikatu ponownie"
+

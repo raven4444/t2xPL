@@ -1,0 +1,24 @@
+{710}{800} Your journey to the hospital was not in vain.
+{805}{860} You'll see.
+{930}{990} Grab the Scales with both hands.
+{1000}{1100} Empty your mind of all things except that | which you are trying to accomplish.
+{1125}{1300}Then state your intentions clearly and | the spirits of the artifact will do | whats needs to be done.
+{1337}{1474} Thought will be given substance and desire made tangible.
+{1515}{1559} Tell it to stop his suffering.
+{1585}{1740} Look at him - look what's been done to him.| Make the spirit feel his pain...
+{1830}{1920} Stop his suffering. | Make it end his pain.
+{1930}{1955} NOW!
+{3000}{3070} He's gone now. Taken away.
+{3110}{3180} But there is still something you can do...
+{3260}{3300} You know who is responsible.
+{3302}{3368} You know who did this to him.
+{3369}{3390} Truart
+{3394}{3510} You can make him pay. | Make him feel the pain he's inflicted upon others.
+{3513}{3550} Use the Scales.
+{3555}{3671} You'll have your revenge | he'll suffer for what he's done.
+{3694}{3769} Kedar... | all in vain...
+{3880}{3961} Then I will do what you could not!
+{3966}{4080} He will pay! They all will!
+{4600}{4680} You are my will made flesh.
+{4684}{4900} Look at me; I am your wellspring and master | obey me and heed no words but mine.
+{5010}{5101} Go now, and find him.| Go!

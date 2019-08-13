@@ -1,0 +1,32 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:07.00,0:00:10.66,Default,NTP,0000,0000,0000,!Effect,"Nie toleruj¿e drzewa na drodze swej,\Ngdy szlak nale¿y stworzyæ.
+Dialogue: Marked=0,0:00:11.00,0:00:15.00,Default,NTP,0000,0000,0000,!Effect,Nie toleruj¿e z³odzieja w domu swym,\Ngdy pracê Budowniczego wykonano.
+Dialogue: Marked=0,0:00:19.16,0:00:22.83,Default,NTP,0000,0000,0000,!Effect,Buduj y wykuwaj, pal y uderzaj,\Ne¿by wszyscy wielkoœæ Budowniczego poznali.
+Dialogue: Marked=0,0:00:23.00,0:00:27.00,Default,NTP,0000,0000,0000,!Effect,Y ws³uchuj siê w s³owa Dzieci Karrasa."
+Dialogue: Marked=0,0:00:27.16,0:00:31.33,Default,NTP,0000,0000,0000,!Effect,"Mechanistów Ksiêga Zasad"
+Dialogue: Marked=0,0:00:32.66,0:00:37.16,Default,NTP,0000,0000,0000,!Effect,Znalaz³am notatki u Kedara, mówi¹ce o miejscu zwanym „S³onecznym Portem”.
+Dialogue: Marked=0,0:00:37.66,0:00:40.33,Default,NTP,0000,0000,0000,!Effect,Wygl¹da na to, i¿ przemytnicy maj¹ tam jak¹œ siedzibê.
+Dialogue: Marked=0,0:00:40.50,0:00:43.66,Default,NTP,0000,0000,0000,!Effect,Malak mówi, ¿e to osada z widokiem na wybrze¿e,
+Dialogue: Marked=0,0:00:43.83,0:00:47.00,Default,NTP,0000,0000,0000,!Effect,gdzie szlachta ucieka przed stêchlizn¹ Miasta.
+Dialogue: Marked=0,0:00:47.50,0:00:50.83,Default,NTP,0000,0000,0000,!Effect,Dziwnie jest nazywaæ ich "szlacht¹",
+Dialogue: Marked=0,0:00:51.16,0:00:54.16,Default,NTP,0000,0000,0000,!Effect,lecz najwyraŸniej nie tylko œmietanka wyp³ywa na wierzch.
+Dialogue: Marked=0,0:00:54.66,0:00:58.66,Default,NTP,0000,0000,0000,!Effect,Malak jest jedyn¹ pó³szlachetn¹ osob¹, jak¹ tu spotka³am.
+Dialogue: Marked=0,0:01:00.00,0:01:03.33,Default,NTP,0000,0000,0000,!Effect,Wspomnia³ coœ o tak zwanej „maszynie parowej”,
+Dialogue: Marked=0,0:01:03.66,0:01:06.33,Default,NTP,0000,0000,0000,!Effect,która ka¿dego dnia wyrusza z Miasta do S³onecznego Portu.
+Dialogue: Marked=0,0:01:06.66,0:01:11.33,Default,NTP,0000,0000,0000,!Effect,Doda³, ¿e mo¿e ci¹gn¹æ wagony tak szybko, jak ca³y orszak koni.
+Dialogue: Marked=0,0:01:11.66,0:01:13.33,Default,NTP,0000,0000,0000,!Effect,Jednak nie pochwala tego.
+Dialogue: Marked=0,0:01:14.66,0:01:18.33,Default,NTP,0000,0000,0000,!Effect,Wa³êsa³am siê dzisiaj po stacji.\NJest tam du¿o niedostêpnych miejsc,
+Dialogue: Marked=0,0:01:18.66,0:01:22.00,Default,NTP,0000,0000,0000,!Effect,a na pok³ad maszyny nie mo¿na wejœæ bez biletu.
+Dialogue: Marked=0,0:01:22.60,0:01:25.00,Default,NTP,0000,0000,0000,!Effect,Te kosztuj¹ za du¿o, bym mog³a sobie na nie pozwoliæ.
+Dialogue: Marked=0,0:01:25.66,0:01:30.33,Default,NTP,0000,0000,0000,!Effect,Dzisiaj zamierzam dostaæ siê na pok³ad i œledziæ przemytników.
+Dialogue: Marked=0,0:01:30.66,0:01:34.83,Default,NTP,0000,0000,0000,!Effect,Brzmi banalnie, lecz s¹dz¹c po ozdobach,\Nnie brakuje tam kosztownoœci.
+Dialogue: Marked=0,0:01:35.00,0:01:38.16,Default,NTP,0000,0000,0000,!Effect,Zapewne stacja jest tak¿e silnie strze¿ona.
+Dialogue: Marked=0,0:01:38.50,0:01:40.50,Default,NTP,0000,0000,0000,!Effect,W¹tpiê, by przemytnicy zaprosili mnie do swej kryjówki.
+Dialogue: Marked=0,0:01:40.83,0:01:43.66,Default,NTP,0000,0000,0000,!Effect,Bêdê zatem potrzebowa³a z³ota na zakup ekwipunku.
+Dialogue: Marked=0,0:01:44.16,0:01:48.33,Default,NTP,0000,0000,0000,!Effect,Zak³adam, ¿e równie¿ i tam niczego nie zabraknie.
+Dialogue: Marked=0,0:01:48.66,0:01:53.33,Default,NTP,0000,0000,0000,!Effect,Nie chcia³am zostaæ z³odziejem,\Njednak Malak twierdzi, ¿e to jedyna droga.
+Dialogue: Marked=0,0:01:53.66,0:01:57.00,Default,NTP,0000,0000,0000,!Effect,Nie potrafiê wymyœliæ nic lepszego,\Na wiêc... do dzie³a!

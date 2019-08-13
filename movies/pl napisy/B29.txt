@@ -1,0 +1,30 @@
+{200}{310} "Skórê zdar³szy, koœæ nago po³o¿ywszy, | Oko wy³upiwszy, jêzyk odci¹wszy.
+{320}{470} Œciêgno zerwawszy, czaszkê otwar³szy, | szpik wyssawszy, serce wyrwawszy.
+{550}{660} Gdy œmiertelne drzwi zawiawszy, | leœniawi uciek³szy do skryjówki. 
+{666}{800} Gdy œmiertelne drzwi otwar³szy, | g³upoludy œlepo wszed³szy do œrodka."
+{805}{920} "Pogañski Kwasoryt" | znaleziony przy pogrzebanym stosie.
+{960}{1065} Pod os³on¹ nocy|zanios³am Kedara do rezydencji Malaka.
+{1095}{1180} Bior¹c pod uwagê unikanie| ochroniarzy w hotelu,
+{1190}{1280} skradanie siê tam by³o a¿ nazbyt ³atwe.
+{1286}{1360} Szeryf powinien byæ ostro¿niejszy...
+{1370}{1500} Kedar... odzyska³ "przytomnoœæ".|Jeœli to w³aœciwe s³owo...
+{1510}{1650} Czasami dostrzegam przelotne spojrzenie mojego kuzyna zza metalowej maski.  
+{1666}{1820} Jednak przez wiêkszoœæ czasu jest...|inny, obcy...
+{1840}{1940} Pod moj¹ nieobecnoœæ Malak|by³ zajêty szukaniem informacji.
+{1960}{2045} Zadziwiaj¹ce, jak wiele| wygrzeba³ w tak krótkim czasie.
+{2074}{2169} Wci¹¿ jest coœ, co mog³abym| zrobiæ dla Kedara.
+{2195}{2300} Lekarstwo znajduje siê|w zrujnowanym szpitalu,
+{2310}{2400} w czêœci Miasta,| le¿¹cej po drugiej stronie barykady.
+{2430}{2520} Szpital prowadzi³ zakon uzdrowicieli| z odleg³ej krainy. 
+{2530}{2740} Gdy M³otodzier¿cy wznieœli barykady celem ocalenia Miasta przed nieumar³ymi,
+{2742}{2910} szpital zamkniêto, odcinaj¹c go| od reszty Miasta.
+{2920}{3066} Uzdrowiciele s³u¿¹c bogini Amaris,| dzier¿yli potê¿ny relikt.
+{3069}{3180} "Szale", daj¹ce mo¿liwoœæ leczenia œmiertelnych chorób
+{3190}{3400} oraz, wierz¹c legendom, w wielu| przypadkach wskrzeszania zmar³ych.
+{3425}{3575} Malak twierdzi, i¿ Szale mog¹ pomóc Kedarowi.|Zamierzam je znaleŸæ.
+{3580}{3700} W œrodku z pewnoœci¹ stanê| do walki z nieumar³ymi.
+{3710}{3835} Malak wie, i¿ szpital jest nawiedzony.|Niestety to wszystko co mo¿e mi przekazaæ.
+{3858}{3900} To niczego nie zmienia.
+{3910}{3980} Znajdê Szale i wydostanê siê stamt¹d.
+{4000}{4141} Myœla³am, ¿e ju¿ nigdy nie zobaczê Kedara, teraz zaœ mam szansê go ocaliæ.
+{4169}{4250} Tym razem nie mogê zawieœæ!

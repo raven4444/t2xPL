@@ -1,0 +1,11 @@
+// Sim menu strings
+
+continue:       "Kontynuuj"
+load_game:      "Wczytaj"
+save_game:      "Zapisz"
+options:        "Opcje"
+map:            "Mapa"
+objectives:     "Cele"
+quit:           "Wyjœcie" 
+restart:        "Restart"
+

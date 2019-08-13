@@ -1,0 +1,33 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:15.33,0:00:19.83,Default,NTP,0000,0000,0000,!Effect,Nie rozumiem, Malak.\NJak to wszystko ma mi pomóc?
+Dialogue: Marked=0,0:00:20.00,0:00:25.66,Default,NTP,0000,0000,0000,!Effect,Chcê tylko dowiedzieæ siê, kto zabi³ Kedara,\Nwzi¹æ swój statek oraz ³adunek i wróciæ do domu.
+Dialogue: Marked=0,0:00:26.30,0:00:29.33,Default,NTP,0000,0000,0000,!Effect,Nigdy nie przypuszcza³am, ¿e coœ takiego mo¿e siê wydarzyæ...
+Dialogue: Marked=0,0:00:31.00,0:00:33.33,Default,NTP,0000,0000,0000,!Effect,To nie jest takie proste, Zaya.
+Dialogue: Marked=0,0:00:33.50,0:00:39.33,Default,NTP,0000,0000,0000,!Effect,Ju¿ nigdy nie bêdziesz mog³a w pe³ni czuæ,\Nje¿eli nie zemœcisz siê za to, co uczyniono Tobie i Twojemu kuzynowi.
+Dialogue: Marked=0,0:00:39.66,0:00:45.00,Default,NTP,0000,0000,0000,!Effect,Nie wydaje mi siê to ca³kiem s³uszne.\NNie jestem morderczyni¹ ani z³odziejk¹.
+Dialogue: Marked=0,0:00:45.16,0:00:49.00,Default,NTP,0000,0000,0000,!Effect,Nie umiem tak po prostu wejœæ do jakiegoœ miejsca i zasiêgn¹æ informacji.
+Dialogue: Marked=0,0:00:49.16,0:00:54.33,Default,NTP,0000,0000,0000,!Effect,Nauczysz siê. Poka¿ê Ci.\NNigdy nie zabi³aœ cz³owieka?
+Dialogue: Marked=0,0:00:54.66,0:01:01.46,Default,NTP,0000,0000,0000,!Effect,Có¿... Raz, lecz to by³ pirat próbuj¹cy ukraœæ\Nstatek nale¿¹cy do mojej rodziny.
+Dialogue: Marked=0,0:01:01.53,0:01:03.00,Default,NTP,0000,0000,0000,!Effect,Zas³u¿y³ na swój los.
+Dialogue: Marked=0,0:01:03.33,0:01:05.66,Default,NTP,0000,0000,0000,!Effect,Tak samo jak zas³uguj¹ na niego zabójcy Twojego kuzyna.
+Dialogue: Marked=0,0:01:06.33,0:01:08.26,Default,NTP,0000,0000,0000,!Effect,To nie jest czyste miasto, Zaya.
+Dialogue: Marked=0,0:01:08.33,0:01:14.66,Default,NTP,0000,0000,0000,!Effect,Prosperuj¹ tutaj grzeszni i jadowici ludzie,\NTy zaœ  jesteœ jedn¹ z wielu osób, którzy ucierpieli z ich r¹k.
+Dialogue: Marked=0,0:01:14.79,0:01:21.59,Default,NTP,0000,0000,0000,!Effect,Pragnê zemsty, o tak! Lecz... Czy nie ma prostszego wyjœcia?
+Dialogue: Marked=0,0:01:21.66,0:01:24.00,Default,NTP,0000,0000,0000,!Effect,Nie ma ¿adnego innego wyjœcia!
+Dialogue: Marked=0,0:01:24.06,0:01:25.00,Default,NTP,0000,0000,0000,!Effect,Twój kuzyn nie ¿yje.
+Dialogue: Marked=0,0:01:25.09,0:01:32.00,Default,NTP,0000,0000,0000,!Effect,Nie mo¿esz wróciæ do domu, a nawet je¿eli byœ mog³a...\NZhañbi³abyœ rodzinê nie uzyskuj¹c zemsty!
+Dialogue: Marked=0,0:01:32.66,0:01:35.33,Default,NTP,0000,0000,0000,!Effect,Krew Kedara plami Twe d³onie!
+Dialogue: Marked=0,0:01:36.33,0:01:38.66,Default,NTP,0000,0000,0000,!Effect,Lecz to zale¿y od Ciebie.
+Dialogue: Marked=0,0:01:39.06,0:01:43.00,Default,NTP,0000,0000,0000,!Effect,Je¿eli chcesz ¿yæ z tym ciê¿arem,\Nniech tak bêdzie.
+Dialogue: Marked=0,0:01:43.33,0:01:48.00,Default,NTP,0000,0000,0000,!Effect,Nie mogê zmusiæ Ciê do zemsty,\Nktóra nale¿y tylko i wy³¹cznie do Ciebie.
+Dialogue: Marked=0,0:01:56.33,0:02:01.66,Default,NTP,0000,0000,0000,!Effect,Tak! Zrobiê to... Zemszczê siê!
+Dialogue: Marked=0,0:02:01.83,0:02:04.50,Default,NTP,0000,0000,0000,!Effect,Obiecujê ci to, Kedar.
+Dialogue: Marked=0,0:02:04.66,0:02:06.79,Default,NTP,0000,0000,0000,!Effect,Nie wyjadê, dopóki tego nie dokonam.
+Dialogue: Marked=0,0:02:08.33,0:02:10.00,Default,NTP,0000,0000,0000,!Effect,Zrobiê wszystko, co w mej mocy.
+Dialogue: Marked=0,0:02:10.33,0:02:13.50,Default,NTP,0000,0000,0000,!Effect,Kedar jest martwy, lecz nie ja...
+Dialogue: Marked=0,0:02:15.00,0:02:17.66,Default,NTP,0000,0000,0000,!Effect,Zap³ac¹ za to, czego siê dopuœcili!
+Dialogue: Marked=0,0:02:18.26,0:02:21.33,Default,NTP,0000,0000,0000,!Effect,A to chciwe i cuchn¹ce miasto równie¿ tego po¿a³uje!

@@ -1,0 +1,27 @@
+{210}{320} "Nie toleruj¿e drzewa na drodze swej, | gdy szlak nale¿y stworzyæ.
+{330}{450} Nie toleruj¿e z³odzieja w domu swym, | gdy pracê Budowniczego wykonano.
+{575}{685} Buduj y wykuwaj, pal y uderzaj, | e¿by wszyscy wielkoœæ Budowniczego poznali.
+{690}{810} Y ws³uchuj siê w s³owa Dzieci Karrasa."
+{815}{940} "Mechanistów Ksiêga Zasad"
+{980}{1115} Znalaz³am notatki u Kedara, mówi¹ce o miejscu zwanym „S³onecznym Portem”.
+{1130}{1210} Wygl¹da na to, i¿ przemytnicy maj¹ tam jak¹œ siedzibê. 
+{1215}{1310} Malak mówi, ¿e to osada z widokiem na wybrze¿e,
+{1315}{1410} gdzie szlachta ucieka przed stêchlizn¹ Miasta. 
+{1425}{1525} Dziwnie jest nazywaæ ich "szlacht¹", 
+{1535}{1625} lecz najwyraŸniej nie tylko œmietanka wyp³ywa na wierzch.
+{1640}{1760} Malak jest jedyn¹ pó³szlachetn¹ osob¹, jak¹ tu spotka³am.
+{1800}{1900} Wspomnia³ coœ o tak zwanej „maszynie parowej”, 
+{1910}{1990} która ka¿dego dnia wyrusza z Miasta do S³onecznego Portu.
+{2000}{2140} Doda³, ¿e mo¿e ci¹gn¹æ wagony tak szybko, jak ca³y orszak koni.
+{2150}{2200} Jednak nie pochwala tego.
+{2240}{2350} Wa³êsa³am siê dzisiaj po stacji. | Jest tam du¿o niedostêpnych miejsc,
+{2360}{2460} a na pok³ad maszyny nie mo¿na wejœæ bez biletu.
+{2478}{2550} Te kosztuj¹ za du¿o, bym mog³a sobie na nie pozwoliæ.
+{2570}{2710} Dzisiaj zamierzam dostaæ siê na pok³ad i œledziæ przemytników.
+{2720}{2845} Brzmi banalnie, lecz s¹dz¹c po ozdobach,| nie brakuje tam kosztownoœci.
+{2850}{2945} Zapewne stacja jest tak¿e silnie strze¿ona.
+{2955}{3015} W¹tpiê, by przemytnicy zaprosili mnie do swej kryjówki.
+{3025}{3110} Bêdê zatem potrzebowa³a z³ota na zakup ekwipunku.
+{3125}{3250} Zak³adam, ¿e równie¿ i tam niczego nie zabraknie.
+{3260}{3400} Nie chcia³am zostaæ z³odziejem, | jednak Malak twierdzi, ¿e to jedyna droga.
+{3410}{3510} Nie potrafiê wymyœliæ nic lepszego,| a wiêc... do dzie³a!

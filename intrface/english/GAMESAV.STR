@@ -1,0 +1,14 @@
+save: "Zapisz"
+done: "Gotowe"
+
+unused: "<Pusty>"
+
+initial: "Wybierz plik do zapisu."
+saving: "Zapisywanie..."
+
+success: "Zapis pomyœlny"
+failure: "Zapis nieudany"
+
+quick_save: "(Szybki zapis)"
+
+no_disk_space: "Brak miejsca na dysku"

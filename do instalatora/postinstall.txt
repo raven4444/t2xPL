@@ -1,0 +1,8 @@
+
+Zanim rozpoczniesz grê, przeczytaj poni¿sze informacje.
+1. Do poprawnego dzia³ania Spolszczenie wymaga Pakietu Redystrybucyjnego Microsoft .NET Framework 4.0.
+2. Spolszczone filmy korzystaj¹ z kodeku x264 AVC, wymagane jest posiadanie Thief 2 w wersji NewDark 1.19.
+3. Spolszczenie rozwi¹zuje problemy z uruchomieniem T2X na wersji 1.19.
+Pod koniec instalacji Spolszczenia pojawi siê zapytanie o chêæ instalacji .NET 4.0.
+
+¯yczymy przyjemnego korzystania z modyfikacji - Autorzy.

@@ -1,0 +1,10 @@
+load: "Wczytaj"
+done: "Anuluj"
+
+unused: "<Pusty>"
+
+initial: "Zaznacz plik do wczytania."
+loading: "Wczytywanie..."
+
+
+

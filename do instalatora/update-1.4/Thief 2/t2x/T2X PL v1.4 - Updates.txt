@@ -1,0 +1,98 @@
+01advent
+- zamiana "Czarcie Ko³o" na "Czarci Kr¹g"
+
+01spells
+- usuniêto podwójne "i" ze s³owa "Rychalli"
+
+mis2mummy3
+- poprawienie odmiany imienia mumii
+
+mis2mummy6
+- korekta interpunkcji
+
+mis3kedar2
+- korekta w zdaniach "Prawdopodobnie dlatego, ¿e namalowana kobieta by³a czêœciowo naga... Przysiêgam, ¿e Limes nie ma zami³owania do sztuki!"
+- dodano brakuj¹ce "i" pomiêdzy "przej¹æ i \"rz¹dziæ\""
+
+mis3request
+- korekta s³ów "uprz¹tn¹æ" i "najemców"
+
+mis3winelist
+- korekty nazwtrunków na "Kruczoczarne Piwo" oraz Browar "Benny'ego Mózgo-Trzep"
+
+mis4punish
+- korekta s³ów "niezak³ócanie", "którzy"
+- wielkie litery przy "Zajezdniê Maszyn Parowych"
+
+mis5bodusripper
+- korekta s³owa "Och"
+
+mis5cleanup
+- korekta interpunkcji
+
+mis5inkitchen
+- korekta interpunkcji
+
+mis5journal1
+- korekta interpunkcji
+
+mis5neestogris
+- korekta s³owa "sprawdza³y"
+
+mis5shipcharm
+- korekta s³ów "wiêksze" i "który"
+
+mis5lockpick
+- zamiana "A i przynieœ..." na "No i przynieœ"
+
+mis7fourmen
+- korekta treœci, aby siê rymowa³o
+
+mis7Skull
+- korekta treœci, aby siê rymowa³o
+
+mis8CavadorTrash
+- dodano brakuj¹ce "l" w imieniu "Dibbler"
+
+mis8Elementals
+- korekta s³owa "wstêpne"
+
+mis8SewerDeathNote
+- korekta odstepów i interpunkcji
+
+mis9cleanbodies
+- korekta b³êdów ortograficznych i interpunkcji
+
+mis9insafe
+- korekta literówek i interpunkcji
+
+mis9truart
+- zamiana zdania "ale wci¹¿ s¹ wolne miejsca na szubienicy" na "lecz wci¹¿ mamy wolne miejsca na szubienicy"
+- korekta interpunkcji
+- korekta s³owa "Volari"
+- z uwagi na du¿¹ iloœæ przecinków w jednym zdaniu, stworzono dwa mniejsze: "Prowadzimy powa¿ny biznes, panie Frederoc. Jesteœmy zainteresowani jedynie szumowinami z ulic, za którymi nikt nie bêdzie têskni³."
+
+t2x10builder
+- dodano "narzêdziami danymi przez Budowniczego" zamiast "narzêdziami Budowniczego"
+
+t2x10Morgan
+- zmieniono œmiech na "che, che, che"
+- s³owo "kurwa" zostaje
+
+t2x10truart
+- korekta s³owa "Staleya"
+
+mis11guestbook
+- korekta nazwiska goœci "Lord Gerwazjusz" oraz "Lady Ludwika"
+
+mis12borthold
+- korekta s³owa "tawernê"
+
+mis13viknote
+- korekta zdania "Po wielkiej bitwie, któr¹ stoczy³, ponownie siê ukry³."
+- korekta s³owa "mo¿na"
+- zamiana "Konstantyn" na "Leœny Pan"
+
+
+Goals - miss28 / misja nr 11
+- korekta w zdaniu "Gdyby nie sproœne mendy..."

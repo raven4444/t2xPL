@@ -1,0 +1,25 @@
+{710}{800} Twoja wyprawa do szpitala| nie by³a daremna.
+{805}{860} Zobaczysz...
+{930}{990} Chwyæ Szale w obie d³onie.
+{1000}{1100} Oczyœæ umys³ i wype³nij go tym, |co próbujesz osi¹gn¹æ.
+{1125}{1300} WyraŸnie okreœl swe zamiary, a duchy relikwii uczyni¹, co ma byæ uczynione.
+{1337}{1474} Niech myœl otrzyma cia³o, zaœ pragnienie namacalne siê stanie.
+{1515}{1559} Powiedz im, by uœmierzyli jego cierpienie.
+{1585}{1740} Spójrz na niego, zobacz co mu uczyniono! | Niech duchy skosztuj¹ jego bólu...
+{1830}{1920} Zakoñcz jego cierpienie! | Spraw, by ust¹pi³ ból!
+{1930}{1955} Teraz!
+{3000}{3070} Odszed³. Zabrano go.
+{3110}{3180} Wci¹¿ pozostaje coœ, co mo¿esz uczyniæ...
+{3260}{3300} Wiesz, na kim ci¹¿y odpowiedzialnoœæ?!
+{3302}{3368} Wiesz, kto mu to zrobi³?!
+{3369}{3390} Truart!
+{3394}{3510} Mo¿esz sprawiæ, by za to zap³aci³. | By poczu³ ból, który zadawa³ innym.
+{3513}{3550} U¿yj Szal.
+{3555}{3671} Dope³nisz swej zemsty. | Bêdzie cierpia³ za swe czyny.
+{3694}{3769} Kedar... | Wszystko na nic...
+{3880}{3961} Zatem ja uczyniê to, czego Ty nie mo¿esz!
+{3966}{4080} Zap³aci! Wszyscy zap³ac¹!!!
+{4600}{4680} Jesteœ ucieleœnieniem mej woli!
+{4684}{4800} Spójrz na mnie. |Jestem twoim Ÿród³em i mistrzem.
+{4810}{4900} S³uchaj mnie |i bacz wyraŸnie na me s³owa.
+{5010}{5101} A teraz idŸ. ZnajdŸ go!| IdŸ!

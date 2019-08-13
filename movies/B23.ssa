@@ -1,0 +1,30 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:04.66,0:00:09.00,Default,NTP,0000,0000,0000,!Effect,"Zemsta - precyzyjne narzêdzie\Nw d³oniach sprawiedliwego,
+Dialogue: Marked=0,0:00:09.33,0:00:12.50,Default,NTP,0000,0000,0000,!Effect,E¿by y kapryœni pokutê znaleŸli,\Nmszcz¹c siê na wrogach.
+Dialogue: Marked=0,0:00:14.00,0:00:17.33,Default,NTP,0000,0000,0000,!Effect,Lecz zwa¿aj¿e na\Nostrze sprawiedliwoœci robotniku,
+Dialogue: Marked=0,0:00:17.66,0:00:21.50,Default,NTP,0000,0000,0000,!Effect,E¿by w Tw¹ stronê owo narzêdzie\Nnie zosta³o obrócone.
+Dialogue: Marked=0,0:00:24.00,0:00:27.33,Default,NTP,0000,0000,0000,!Effect,Y ran nie otwar³o,\Nktórych¿e œmieræ nie uleczy."
+Dialogue: Marked=0,0:00:27.66,0:00:30.66,Default,NTP,0000,0000,0000,!Effect,"Dogmat M³otów"
+Dialogue: Marked=0,0:00:32.16,0:00:33.33,Default,NTP,0000,0000,0000,!Effect,M³otodzier¿cy...
+Dialogue: Marked=0,0:00:35.00,0:00:37.50,Default,NTP,0000,0000,0000,!Effect,NajwyraŸniej nie s¹ zbyt popularni w Mieœcie.
+Dialogue: Marked=0,0:00:37.83,0:00:41.16,Default,NTP,0000,0000,0000,!Effect,Lecz w S³onecznym Porcie to w³asnie oni tworz¹ literê prawa.
+Dialogue: Marked=0,0:00:41.50,0:00:46.16,Default,NTP,0000,0000,0000,!Effect,O ile mo¿na mówiæ o jakichkolwiek "zasadach" w krainie bezbo¿ników...
+Dialogue: Marked=0,0:00:46.66,0:00:50.83,Default,NTP,0000,0000,0000,!Effect,Nowe stowarzyszenie zwane "Mechanistami"\Nzdaje siê wypêdzaæ ich z Miasta.
+Dialogue: Marked=0,0:00:50.93,0:00:53.66,Default,NTP,0000,0000,0000,!Effect,Zatem M³otodzier¿cy wycofali siê\Ndo osad na uboczu,
+Dialogue: Marked=0,0:00:54.00,0:00:57.33,Default,NTP,0000,0000,0000,!Effect,jak chocia¿by S³oneczny Port,\Ngdzie zdaj¹ siê dobrze prosperowaæ.
+Dialogue: Marked=0,0:00:58.16,0:01:01.33,Default,NTP,0000,0000,0000,!Effect,Niemniej jednak ci ludzie przebywaj¹ tutaj\Nju¿ od jakiegoœ czasu.
+Dialogue: Marked=0,0:01:01.93,0:01:06.33,Default,NTP,0000,0000,0000,!Effect,Nic nie wiem, ani te¿ nie dbam o ich tajemnicze religie, czy praktyki.
+Dialogue: Marked=0,0:01:06.66,0:01:10.66,Default,NTP,0000,0000,0000,!Effect,Jednak M³oty mog¹ okazaæ siê pomocni przy za³atwieniu spraw z "przyjació³mi" przemytnikami.
+Dialogue: Marked=0,0:01:11.40,0:01:16.33,Default,NTP,0000,0000,0000,!Effect,Nie wygl¹daj¹ na ludzi toleruj¹cych handel niewolnikami b¹dŸ przemyt dzie³ sztuki w swoim weso³ym miasteczku.
+Dialogue: Marked=0,0:01:18.86,0:01:23.73,Default,NTP,0000,0000,0000,!Effect,Próbowa³am znaleŸæ wejœcie na ty³y oœrodka, lecz wydaje siê niedostêpne dla nowicjuszy.
+Dialogue: Marked=0,0:01:24.50,0:01:27.26,Default,NTP,0000,0000,0000,!Effect,Muszê w³amaæ siê od frontu\Ni zobaczyæ, czy uda mi sie cokolwiek znaleŸæ.
+Dialogue: Marked=0,0:01:28.16,0:01:31.50,Default,NTP,0000,0000,0000,!Effect,Nie mam jeszcze planu,\Nlecz musi istnieæ jakiœ sposób,
+Dialogue: Marked=0,0:01:31.83,0:01:35.33,Default,NTP,0000,0000,0000,!Effect,by poinformowaæ fanatyków o istnieniu\Nnielegalnej siatki pod ich brzydkimi nosami.
+Dialogue: Marked=0,0:01:35.66,0:01:37.50,Default,NTP,0000,0000,0000,!Effect,Jeœli mnie zobacz¹, jestem martwa.
+Dialogue: Marked=0,0:01:38.00,0:01:40.66,Default,NTP,0000,0000,0000,!Effect,Mam przeczucie, ¿e nie toleruj¹ goœci,
+Dialogue: Marked=0,0:01:41.00,0:01:42.66,Default,NTP,0000,0000,0000,!Effect,w szczegolnoœci kobiet...
+Dialogue: Marked=0,0:01:43.00,0:01:47.16,Default,NTP,0000,0000,0000,!Effect,Chcia³abym jednak ujrzeæ ich podczas masakrowania m³otami zabójców Kedara.

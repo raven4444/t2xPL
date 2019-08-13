@@ -1,0 +1,19 @@
+{380}{420} Malak... 
+{430}{549} Mój kuzyn sta³ siê...|"Mechanicznym S³u¿¹cym".
+{560}{620} Czy jest teraz niewolnikiem?
+{630}{760} Obawiam siê, ¿e kimœ o wiele gorszym,| Zaya...
+{770}{850} ChodŸ... Poka¿ê Ci... 
+{5180}{5230} Kedar!
+{5240}{5350} Oto los ka¿dego,|kto oœmieli siê oprzeæ Truartowi.
+{5355}{5400} To z³y cz³owiek, Zaya.
+{5405}{5480} Nie mogê go powstrzymaæ.|Lecz Ty...
+{5490}{5590} Tobie przeznaczone jest uwolniæ|Miasto od jego paskudztw.
+{5595}{5646} Przewidzia³em to...
+{5710}{5810} Teraz, gdy wiem gdzie jest Kedar,| muszê go ocaliæ.
+{5820}{5925} Mogê go tu przyprowadziæ,|mo¿emy zdj¹æ jego maskê.
+{5930}{6000} Tak! PrzyprowadŸ Kedara.
+{6010}{6110} Dla wiêkszoœci maska oznacza œmieræ,
+{6120}{6225} lecz z Twoimi umiejêtnoœciami|wci¹¿ mamy szansê, by go ocaliæ.
+{6227}{6340} Je¿eli istnieje choæ cieñ nadziei,|muszê spróbowaæ.
+{6345}{6487} Musisz rowniez zemœciæ siê na Truarcie!|Musi zap³aciæ za to z³o.
+{6490}{6600} Najpierw pomó¿my Kedarowi.|Z Truartem rozprawimy siê póŸniej.

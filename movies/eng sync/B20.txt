@@ -1,0 +1,27 @@
+{210}{320} An eternal cycle, | Falling and rising, rebirth and death.
+{330}{460} The hopeful and the greedy give rise | To the City we observe.
+{570}{670} We share in it's misfortune. | We balance when the scales tip.
+{680}{830} But we do not grieve for the fallen.
+{840}{940} -  Keeper Annals, History of the City
+{980}{1080} I never thought I'd be piecing together a puzzle like this. 
+{1110}{1200} At least Limes' office provided me with some more information.
+{1240}{1390} This is opening up old wounds… | but I knew this day would come.
+{1400}{1500} Malak was training me to avenge Kedar.
+{1515}{1630} Smugglers...they have to be the ones that killed him.
+{1685}{1720} But why?
+{1755}{1940} What did he have that they didn't? | I don't even know where they are...
+{1960}{2020} There's only one way to find out.  
+{2050}{2140} I have to search the City market area and find Kedar's shop.
+{2168}{2430} Hopefully there will be a clue or some kind of information | I can use to find out who these smugglers are and how to find them.
+{2450}{2560} There's a dusk to dawn curfew so I'll need to avoid the city watch.
+{2590}{2880} Nevertheless, it's better if I go at night | fewer shoppers to notice my illegal entrance into Kedar's shop and the surrounding areas.
+{2900}{3050} They won't appreciate someone breaking into a store even if there's a valid reason.
+{3075}{3290} There's a main gate to the district, | but there's probably another way in, not to mention the sewers.
+{3300}{3370} The stench isn't something I look forward to... 
+{3400}{3635} At any rate, I have no idea where Kedar's shop is,| but I seem to recall him mentioning that it was in a building with some other shops.
+{3655}{3820} If what I’ve been able to gather is true, it will probably be somewhere on the east side of the district.
+{3830}{4000} Before he scurried away for the day, | Malak gave me something he called an elemental catalyst.
+{4010}{4240} I'm not quite sure what it does, but he said it worked with the crystals on my arrows. | I guess I'll figure it out as I go along...
+{4270}{4445} It's been a year, but I still feel a deep sorrow when I think of Kedar's death.
+{4480}{4610} It's going to be difficult to enter his shop, but I must.
+{4660}{4940} I’ve been avoiding thinking about where he would have taken me on that fateful day… but no more. | It’s time to begin.

@@ -1,0 +1,25 @@
+{200}{310} Skin is flayed, and bone is laid bare, | eye is plucked, and tongue is severed,
+{320}{470} Tendon is torn, and skull is laid open, | marrow is sucked, and heart is sundered. 
+{550}{660} When deadsie doors yawn, | woodsies run hide, 
+{666}{800} When deadsie doors gape, | Foolsie man blindly goes inside.
+{805}{920} -Pagan etching, | found near the remains | of funeral pyre
+{960}{1065} I carried Kedar back to Malak´s castle in the dead of night.
+{1095}{1280} After avoiding the tight security in the hotel, it felt almost too easy slipping past the guards.
+{1286}{1360} The sheriff really should be more careful.
+{1370}{1650} Kedar has regained consciousness, if that's the word | Sometimes I can catch a glimpse of my old cousin behind the metal mask,  
+{1666}{1820} but most of the time he’s changed… foreign to me.
+{1840}{1940} Malak has been busy while I was away, gathering information. 
+{1960}{2045} It´s amazing how much he has dug up in such a short time.
+{2074}{2169} Turns out there still might be something I can do for Kedar.
+{2195}{2400} There is a cure, Malak tells me, | hidden in the bowels of a ruined hospital in a part of the City that lies behind the Barricades. 
+{2430}{2740} The old hospital was run by an order of healers from a far-away land, | but when the Barricades were erected by the Hammers | in order to prevent the entire City from being overrun by undead,
+{2742}{2910} the Hospital was closed off from the rest of the City and has been inaccessible ever since.
+{2920}{3066} The healers – who served a deity called Amaris - possessed a powerful relic,
+{3069}{3400} a set of scales, which granted them the ability to cure even the most fatal disease and | – it is rumored – in some cases even to raise the dead.
+{3425}{3575} Malak believes that these Scales may help Kedar, so I must find them.
+{3580}{3700} Once inside, I must be prepared to deal with the undead. 
+{3710}{3835} Malak knows that the hospital is haunted, but he couldn´t tell me more than that. 
+{3858}{3900} But that doesn´t change anything;
+{3910}{3980} I´ll find the Scales and get the hell out of there.
+{4000}{4141} I thought I´d never see Kedar again, and now I have a chance to save him.
+{4169}{4250} I must not fail him this time.

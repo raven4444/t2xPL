@@ -1,0 +1,2 @@
+Niniejszy instalator zainstaluje tylko aktualizacjê spolszczenia w wersji 1.4.
+Wymagane jest posiadanie zainstalowanego spolszczenia w wersji 1.3 do poprawnego dzia³ania.

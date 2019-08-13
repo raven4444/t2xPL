@@ -1,0 +1,16 @@
+// string file for anims.
+// Format is list of anims
+// then x,y fps (r|l)
+// where 'r' means reverse, and 'l' means loop normally
+// list: "maina mainb mainc main"
+// maina: "19,89 12.1 l"
+// mainb: "52,319 12.1 l"
+// mainc: "502,179 11.0 l"
+// main: "172,26 8.0 l"
+list: "mains"
+mains: "0,200 12.0 l"
+// mainc: "502,79 11.0 l"
+// list: "maina mainb mainc"
+// maina: "19,89 12.1 l"
+// mainb: "52,319 12.1 l"
+// mainc: "502,79 11.0 l"

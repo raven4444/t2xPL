@@ -1,0 +1,11 @@
+load: "Wczytaj"
+done: "Gotowe"
+
+unused: "<Pusty>"
+
+initial: "Zaznacz plik do wczytania."
+loading: "Wczytywanie..."
+failed: "Wczytanie niemo¿liwe" 
+
+
+

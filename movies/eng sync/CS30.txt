@@ -1,0 +1,15 @@
+{230}{300} Should we pursue her? 
+{310}{368} She could be a great asset to us.
+{373}{454} No. Leave her be. 
+{460}{600} She has suffered enought and our plans revolve around | the One at this time.
+{615}{660} So say the glyphs.
+{664}{800} Sometimes, that which is written is read anew;
+{805}{1067} old eyes seeing clearly in a different light, | from a different angle, revaling truths long elusive and hidden.
+{1100}{1245} The glyphs encompass all, but understanding can be insufficient.
+{1250}{1530} She leaves the City, whole yet with something missing, | as the One who left us nears his goal, | untouched yet not unchanged,
+{1545}{1655} their stories interweave and become as one.
+{1660}{1850} So this is how it ends. Were we to know? | Did the glyphs fortell it?
+{1855}{1944} All is as is it was written. 
+{1954}{2100} The glyphs are unchanged, but now the veil has been lifted and we see...
+{2120}{2154} ...what will come.
+{2200}{2300} Thief 2X Shadows Of The Metal Age

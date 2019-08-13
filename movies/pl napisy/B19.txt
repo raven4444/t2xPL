@@ -1,0 +1,19 @@
+{200}{300} "Kopawszy w trumnie wœród koœci, | Odnalaz³szy grób starego cz³owieka,
+{320}{490} Kradn¹wszy odzienie i kamienie i klejnoty, | Kradn¹wszy serca i ¿o³¹dki i koœci."
+{550}{670} "Lecz przeszkodziwszy ziemi i temu co gnije, | Leœniawy Pan przybêdzie
+{680}{830} I oczy wyd³ubie z kradziejskich mózgów g³upoludów."
+{840}{900} "Nowy Kwasoryt" | w Opuszczonej Œwi¹tyni Szachraja
+{1000}{1090} Zdumiewaj¹ce jakie umiejêtnoœci mo¿na posi¹œæ w ci¹gu jednego roku!
+{1110}{1220} Malak jest dobrym mentorem i nauczy³ mnie wielu rzeczy...
+{1230}{1340} Przyk³adem jest „st¹panie w cieniu”, jak zwyk³ to nazywaæ.
+{1370}{1520} Podszlifowa³am tak¿e umiejêtnoœæ w³adania broni¹ na wypadek, gdybym musia³a siê broniæ.
+{1547}{1640} Malak mówi, ¿e trenowa³am ciê¿ko i z determinacj¹.
+{1650}{1740} Postanowi³ zatem daæ mi ma³y test.
+{1768}{1915} Mam w³amaæ siê do lokalnego muzeum, gdzie - jak twierdzi Malak - stosunkowo ³atwo siê dostaæ. 
+{1920}{2020} Mimo, i¿ znajduje siê tam mnóstwo wartoœciowych przedmiotów, których kradzie¿ by mi pomog³a,
+{2023}{2225} Malak przypomnia³, ¿e nie jest paserem, | a sprzeda¿ kosztownoœci sprowadzi³aby na nas niepotrzebn¹ uwagê.
+{2241}{2376} Chodzi równie¿ o to, ¿e... nie jestem jeszcze pewna swych umiejêtnoœci. 
+{2380}{2440} Moim g³ównym celem jest ta ksiêga. 
+{2455}{2616} Ponoæ jest bardzo stara i zawiera notatki na temat budynków Miasta z dawnych czasów.
+{2640}{2799} Nie wyjaœni³ wiele, poza tym, i¿ idealnie nadaje siê do planu naszej zemsty.
+{2805}{2980} Mam nadziejê, i¿ póŸniej wyjaœni mi coœ wiêcej... | Nie mam powodów, by mu nie ufaæ.

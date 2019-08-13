@@ -1,0 +1,29 @@
+{190}{250} "Mo¿esz uleczyæ z³aman¹ koœæ,|ostudziæ gor¹czkê. 
+{255}{340} Mo¿esz opatrzyæ krwawi¹c¹ ranê|i przywróciæ jej krzepkoœæ.
+{350}{470} Mo¿esz oczyœciæ krew | uœmierzaj¹c tym samym ból.
+{550}{660} Lecz niez³omne cia³o | nadal mo¿e zamieszkiwaæ z³amana dusza.
+{670}{790} Niechaj s³owa Amaris wiod¹ ciê | uleczaj¹c cia³o oraz duszê."
+{800}{930} "Lekcje Aliny Jaœniej¹cej", z "Ksiêgi Amaris"
+{960}{1090} Wygl¹da na to, i¿ ksiêga wykradziona z muzeum w koñcu siê na coœ przyda.
+{1113}{1220} Zawiera plany Hotelu Grand, w którym przetrzymywany jest Kedar.
+{1245}{1325} Budynek jest bardzo stary.
+{1335}{1435} Dobrze konserwowany, nadal zawiera historyczne punkty strategiczne.
+{1467}{1550} Obecnie jest w³asnoœci¹ najbogatszych mieszkañców Miasta,
+{1560}{1666} nie wykluczaj¹c znamienitego szeryfa Truarta.
+{1670}{1780} S³ysza³am, i¿ jest |najmniej groŸny spoœród inwestorów.
+{1790}{1930} S¹ to g³ównie gangsterzy i| ludzie VIP-owskiej listy Mechanistów.
+{1940}{2080} Teraz, gdy dzier¿y w³adzê,| Truart bawi z du¿ymi ch³opcami.
+{2090}{2200} Musze dostaæ siê do œrodka i poszukaæ zapisów dotycz¹cych s³u¿¹cych.
+{2220}{2310} Hotel sporo ich wykorzystuje, a wszyscy wygl¹daj¹ identycznie.
+{2320}{2410} Nadziej¹ na znalezienie Kedara jest zlokalizowanie spisu zakupu s³u¿¹cych,
+{2420}{2540} b¹dŸ przes³uchanie osoby,| która zna jego lokalizacjê.
+{2550}{2620} Lobby monitoruj¹ dwie kamery,
+{2630}{2725} lecz znalezienie kodu bezpieczeñstwa| nie powinno byæ trudne.
+{2730}{2810} W koñcu to hotel, nie bank.
+{2820}{3000} Kiedy odnajdê Kedara, prawdopodobnie| bêdê musia³a go obezw³adniæ. 
+{3020}{3110} Spodziewam siê, ¿e to jest najwiêkszy problem,
+{3115}{3160} bior¹c pod uwagê jego ciê¿ar.
+{3186}{3280} Malak ofiarowa³ mi kolejny fragment Katalizatora ¯ywio³ów.
+{3290}{3390} Ka¿dy kto wejdzie mi w drogê, skoñczy ze strza³¹ w dupie.
+{3430}{3520} Zasz³am tak daleko... 
+{3530}{3640} Kedar... wkrótce bêdziesz wolny.

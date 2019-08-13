@@ -1,0 +1,133 @@
+use_blackjack: "This weapon will knock out an unsuspecting target with \
+a slight concussion and little attention."
+
+use_breath: "This potion will provide you an extra few seconds of air \
+when swimming underwater. Cost:125"        
+
+use_broadhead: "This is a sharp arrow. Cost:25"
+
+use_fire: "This arrow explodes on impact, damaging its target and setting \
+burnables such as torches on fire. It does not arc in flight, so aim on \
+the top of the bow sight. Cost:225"
+
+use_flash: "This grenade produces a bright flash of light, blinding \
+enemies who see it. Cost:200" 
+
+use_gasarrow: "This arrow explodes into a cloud of knockout gas on impact, putting \
+most living creatures inside its area to sleep. It does not arc in flight, \
+so aim on the top of the bow sight. Cost:500"
+
+use_gasmine: "This grenade has a proximity sensor, and will produce a \
+cloud of knockout gas when approached. \
+Once it's armed, you can only \
+disarm it with your lockpicks.  Cost 500:"
+
+use_healing: "This potion acts as a healing balm, restoring lost health. Cost:250"
+
+use_holywater: ""
+
+use_slowfall: "This potion prevents damage from falling to the ground if used prior or during the fall.  Cost: 150"
+
+use_invisibility: "This potion makes you invisible. Beware that it only \
+lasts a few seconds, and does not make you inaudible.  Cost: 600"
+
+use_lockpick: "These tools will let you unlock most locks, with a little work."
+
+use_pricey_lockpick: "These tools will let you unlock most locks, with a little work.  Cost: 4000 for the pair."
+
+use_mine: "This grenade has a proximity sensor, and will produce a \
+fiery explosion when approached. \
+Once it's armed, you can only \
+disarm it with your lockpicks.  Cost 350:"
+
+use_moss: "This arrow creates a carpet of moss which allows quiet \ passage over loud sufaces. Cost:150"
+
+use_noisemaker: "The mechanism in this arrow produces a strange noise upon \
+impact, useful as a distraction. Cost:250"
+
+use_rope: "This arrow will stick into wooden surfaces and deploy a hanging rope. \
+Cost:200"
+
+use_vine: "This arrow can take root on grillwork \
+as well as any wooden surface. Cost: 200."
+
+use_sword: "In addition to putting holes in the enemy, a sword can block a foe's \
+attack."
+
+use_water: "The water arrow does not do any damage, but it douses \
+torches and other burning objects, and cleans up blood stains. Cost:75"
+
+use_tip: "Someone wants to give you some advice... for a fee. Cost: 25"
+
+use_tip50: "Someone wants to give you some advice... for a fee. Cost: 50"
+
+use_tip100: "Someone wants to give you some advice... for a fee. Cost: 100"
+
+use_hammertip: "One of the Hammerites is willing to offer you some \
+information he found, but insists that you pay for it - something \
+about not sullying his soul by helping thieves.  Cost:100"
+
+use_speed: "This potion will greatly increase your running and \
+walking speed, for a short while.  Cost: 300."
+
+use_equiptip: "A local merchant may not have the items you need, \
+but he does know where you can obtain them.  Cost: 200"
+
+use_diamondtip: "The city holds many opportunities for a trained \
+thief -- if he knows where to look.  Cost: 100"
+
+use_scripture: "This is the first passage of the New Scripture \
+of the Master Builder, written by Karras and given to you by Viktoria."
+
+use_flare: "Each flare will illuminate your surroundings for a \
+short period of time.  Cost: 25"
+
+use_camera: "Connects to Garrett's mechanical eye using aetheric \
+vibrations when dropped or thrown, allowing him to see from its \
+location. USE key leaves this view. Cost: 300"
+
+use_birdcall: "This signal device will make a distinctive but \
+non-suspicious sound when used, allowing you to signal to Basso."
+
+use_frogegg: "Smuggled into the city at great expense by Viktoria's agents, \
+these items will burst soggily when thrown and produce a frog-beast, \
+who will ally with you.  Cost: 200"
+
+use_m12keys: "You picked up some of the mansion's keys when you were here \
+before.  Should be handy."
+
+use_m12letter: "A letter from Karras to Gervaisius. Interesting reading."
+
+use_FlashMine: "This grenade has a proximity sensor, and will produce a \
+blinding flash when approached. \
+Once it's armed, you can only \
+disarm it with your lockpicks.  Cost: 350"
+
+use_SDBoxKey: "The Mechanist safety-deposit box key that you made a copy of."
+
+
+use_icecat: "A catalyst that will convert your water arrows to their pagan counterparts."
+
+use_firecat: "A catalyst that will convert your water and fire arrows to their pagan counterparts."
+
+use_earthcat: "A catalyst that will convert your water, fire, and earth arrows to their pagan counterparts."
+
+use_aircat: "A catalyst that will convert your water, fire, earth, and gas arrows to their pagan counterparts."
+
+use_hoil: "A healing remedy that cures wounds.  Cost: 250"
+
+use_concealment: "An ancient potion that will silence your footsteps and help you blend into the shadows better for a short time.  Cost: 500"
+
+use_spideregg: "These eggs will hatch dreaded Maw spiders - though they do not survive long outside the Maw, these fearsome beasts will attack anything within their grasp while alive.  Cost: 250"
+
+use_emp: "A mechanical bomb that will short out any exposed steam-powered device, including lights, security cameras, and robots.  Cost: 200"
+
+use_locust: "Pulled from the bowels of the earth, these Pagan bombs will spawn a swarm of deadly insects that will devour any nearby human corpse, no matter the size.  Cost: 250"
+
+use_hairpin: "A makeshift lockpick."
+
+use_malaknote: "A note from Malak."
+
+use_cavnote: "A note addressed to Cavador which frames the Free Traders for taking the Orb."
+
+use_basorb: "The Orb of St. Basmus, stolen from the Mausoleum. Place this inside the Goodie Bag to frame the Free Traders."

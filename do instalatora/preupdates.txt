@@ -1,0 +1,3 @@
+Niniejszy instalator zainstaluje tylko spolszczone filmy do T2X. 
+Do poprawnego dzia³ania potrzebne jest spolszczenie T2X w wersji 1.4 lub nowszej.
+Nie jest wymagany kodek DirectVobSub czy VP3.

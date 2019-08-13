@@ -1,0 +1,26 @@
+{150}{250} "Gdy Budowniczy pierwszym braciom nakaza³,|e¿by pozwolili prowadziæ siê nieprawoœci,
+{251}{370} Bracia wetknêli skórê z³odzieja do ognia,|zaœ z koœci zwêglonych rêkojeœæ stworzyli,
+{420}{550} Y odciêli wszystkie koñczyny mordercy | Y u¿yli jego czaszki jako g³owy.
+{551}{670} Zaœ z cia³a chorej nierz¹dnicy | wzmo¿yli p³omienie kuŸni...
+{740}{839} Y uderzy³ sprawiedliwy wykutym m³otem
+{840}{940} w wielu swych bezbo¿nych braci..." | "M³otów Ksiêga Zasad", Wers XXIX
+{960}{1050} Nie jestem pewna, do czego s³u¿y ta Kula,
+{1060}{1150} lecz nagle sta³a siê bardzo wa¿na| dla wielu ludzi.
+{1165}{1220} W szczególnoœci dla mnie... 
+{1230}{1280} Wpierw najstotniejsze sprawy.
+{1285}{1400} Podrzucê Kulê do sklepiku| ze s³odyczami przemytników.
+{1410}{1480} Wygl¹da na to, ¿e kilku z nich| ma dziœ ochotê na coœ s³odkiego,
+{1490}{1550} wiêc zapewne bêdê musia³a| znaleŸæ inne wejœcie.
+{1560}{1630} Nastêpnie wrócê z powrotem do| Katedry M³otów
+{1640}{1700} i zostawiê tam anonimow¹ notatkê dla Arcykap³ana Cavadora.
+{1720}{1860} Przeprowadzi³am wczeœniej zwiad i znalaz³am sekretne przejœcie, z którego zapewne korzysta³ Onam.
+{1866}{1955} Mogê zostawiæ list na jego biurku i ulotniæ siê, nim ktokolwiek mnie zauwa¿y.
+{1965}{2030} Gdy M³oty dowiedz¹ siê o skradzionej Kuli,
+{2040}{2158} rozedr¹ to miasto na strzêpy,| szukaj¹c Feredoca i jego zgrajê. 
+{2165}{2300} Lepiej... Obwini¹ przemytników za znikniêcie| Kap³ana Onama i reszty cz³onków Zakonu.
+{2302}{2345} Biorê siê do roboty.
+{2355}{2468} Im szybciej siê z tym uporam,|tym szybciej wype³ni siê ma zemsta.
+{2473}{2570} Powinnam byæ bezpieczna,| poruszaj¹c siê dziœ po mieœcie.
+{2580}{2630} Stra¿ najprawdopodobniej mnie zignoruje.
+{2650}{2750} Nie mogê jednak zwracaæ na siebie uwagi.
+{2760}{2840} Muszê równie¿ uwa¿aæ,|by przemytnicy mnie nie spostrzegli.

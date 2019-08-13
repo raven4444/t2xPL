@@ -1,0 +1,19 @@
+{200}{310} You can mend the bone, cool the fever | you can repair the skin, | and restore the vigor.
+{320}{470} You can purify the blood, | and end the pain.
+{550}{660} But an unbroken body | may house a broken soul. 
+{670}{790} Let the words of Amaris guide you | and heal body and soul alike.
+{800}{930} The Teachings of Alinya the Pale, | The Book of Amaris
+{960}{1090} Turns out that the book of maps I stole from the museum will come in handy after all.
+{1113}{1220} It had an old blueprint of the Grand Hotel where Kedar is being kept. 
+{1245}{1435} Apparently, the building is very old, but well maintained and considered | a historical landmark of sorts.
+{1467}{1666} These days, it’s owned by several of the City’s richest citizens, | including the illustrious Sheriff Truart.
+{1670}{1930} From what I hear, he’s probably the least dangerous of all the investors; | mainly crime lords and higher-ups on the Mechanist’s VIP list. 
+{1940}{2080} Now that he’s in a position of power, Truart’s playing with the big boys.
+{2090}{2200} I’ll have to get inside and see if there are records for the servants in the hotel.
+{2220}{2310} The hotel seems to use a lot of them and they all look the same.
+{2320}{2540} My only hope of locating Kedar is to find a record | of when each servant was brought to the property, | or interrogating someone who knows.
+{2550}{2725} The lobby is protected by two camera’s, | but it shouldn’t be hard to find the disarm code lying around somewhere. 
+{2730}{3000} After all, it’s a hotel, not a bank. | Once I find Kedar, I’ll probably have to incapacitate him briefly until I can get him out. 
+{3020}{3160} I anticipate that being the biggest problem, seeing how heavy he’s probably going to be.
+{3186}{3390} Malak has given me another piece of elemental crystal, | so anyone who gets in my way will find themselves on the wrong end of an arrow.
+{3430}{3640} I’ve come so far… Kedar… you will be free soon.

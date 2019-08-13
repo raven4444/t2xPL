@@ -1,0 +1,19 @@
+{210}{320} Suffer not a tree in thy way | When a path is to be made.
+{330}{450} Suffer not a thief in thy house | Where the Builder's work was done.
+{575}{685} Build it, forge it, fire it, smite it | that all shall know | the greatness of the Builder
+{690}{810} And harken | to the words of karras' children.'
+{815}{940} -Mechanist Book of Tenets
+{980}{1115} I found a few notes back at Kedar's place talking about someplace called 'Sunnyport'.
+{1130}{1210} It sounded like these smugglers have some sort of a base there. 
+{1215}{1410} Malak tells me it's a town overlooking the coast where all | the nobility go to get away from all the foul City air. 
+{1425}{1625} Sounds a little odd calling them “nobility,” but | I suppose Cream's not the only thing that rises to the top.
+{1640}{1760} Malak's about the only half-noble person I've met in this city.
+{1800}{1990} He says there's something called a 'Steam Carriage' | which goes from the City to Sunnyport every day.
+{1995}{2200} He says it can pull ten carriages as fast as a whole train of horses can pull one. | I don't think he approves.
+{2240}{2460} I had a wander around the station today, | but there are lots of areas out of bounds to the public | and you can't get near the Carriage without a ticket.
+{2478}{2550} Tickets cost far more than I can afford right now.
+{2570}{2710} Today I'm going to find a way on board the train and follow the smugglers to their stop. 
+{2720}{2945} Sounds easy, but by the looks of the decorations there's quite a lot of money in that place, | so I can expect it to be heavily guarded.
+{2955}{3110} I somehow doubt the smugglers will just invite me in, | so I'll need a bit of money for equipment once I'm there. 
+{3125}{3300} I suppose this is as good a place as any to get that. | I didn't want to become a thief, 
+{3302}{3510} but Malak says this is the only way and | I can't think of anything better, so here goes.

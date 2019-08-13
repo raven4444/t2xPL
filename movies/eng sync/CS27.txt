@@ -1,0 +1,12 @@
+{380}{549} Malak... my cousin has become a "mechanist servant".
+{560}{620} He is some kind of slave now?
+{630}{850} I'm afraid he is become far worse than a mere slave Zaya... | come... I will Show you... 
+{5240}{5350} This is the fate of all who would resist Truart.
+{5358}{5590} He is an evil man Zaya. | cannot stop him, but you... you are destined to rid teg City | of his abomination.
+{5595}{5646} I have freseen it.
+{5710}{5810} I must save Kedar, now that I know where he is.
+{5820}{5925} I can bring him here and we can remove the servant mask...
+{5930}{6225} Yes! Bring Kedar here. The mask means death for most, | but whit your skill, there may yet be a way to save him.
+{6227}{6340} If there's even a chance, I have to try.
+{6345}{6487} Then you must seek your revenge on Truart... | he must pay for this evil.
+{6490}{6600} Let's help Kedar first. We can deal with Truart later...

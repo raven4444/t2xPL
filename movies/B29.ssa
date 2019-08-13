@@ -1,0 +1,35 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:06.66,0:00:10.33,Default,NTP,0000,0000,0000,!Effect,"Skórê zdar³szy, koœæ nago po³o¿ywszy,\NOko wy³upiwszy, jêzyk odci¹wszy.
+Dialogue: Marked=0,0:00:10.66,0:00:15.66,Default,NTP,0000,0000,0000,!Effect,Œciêgno zerwawszy, czaszkê otwar³szy,\Nszpik wyssawszy, serce wyrwawszy.
+Dialogue: Marked=0,0:00:18.33,0:00:22.00,Default,NTP,0000,0000,0000,!Effect,Gdy œmiertelne drzwi zawiawszy,\Nleœniawi uciek³szy do skryjówki.
+Dialogue: Marked=0,0:00:22.20,0:00:26.66,Default,NTP,0000,0000,0000,!Effect,Gdy œmiertelne drzwi otwar³szy,\Ng³upoludy œlepo wszed³szy do œrodka."
+Dialogue: Marked=0,0:00:26.83,0:00:30.66,Default,NTP,0000,0000,0000,!Effect,"Pogañski Kwasoryt"\Nznaleziony przy pogrzebanym stosie.
+Dialogue: Marked=0,0:00:32.00,0:00:35.50,Default,NTP,0000,0000,0000,!Effect,Pod os³on¹ nocy\Nzanios³am Kedara do rezydencji Malaka.
+Dialogue: Marked=0,0:00:36.50,0:00:39.33,Default,NTP,0000,0000,0000,!Effect,Bior¹c pod uwagê unikanie\Nochroniarzy w hotelu,
+Dialogue: Marked=0,0:00:39.66,0:00:42.66,Default,NTP,0000,0000,0000,!Effect,skradanie siê tam by³o a¿ nazbyt ³atwe.
+Dialogue: Marked=0,0:00:42.86,0:00:45.33,Default,NTP,0000,0000,0000,!Effect,Szeryf powinien byæ ostro¿niejszy...
+Dialogue: Marked=0,0:00:45.66,0:00:50.00,Default,NTP,0000,0000,0000,!Effect,Kedar... odzyska³ "przytomnoœæ".\NJeœli to w³aœciwe s³owo...
+Dialogue: Marked=0,0:00:50.33,0:00:55.00,Default,NTP,0000,0000,0000,!Effect,Czasami dostrzegam przelotne spojrzenie mojego kuzyna zza metalowej maski.
+Dialogue: Marked=0,0:00:55.53,0:01:00.66,Default,NTP,0000,0000,0000,!Effect,Jednak przez wiêkszoœæ czasu jest...\Ninny, obcy...
+Dialogue: Marked=0,0:01:01.33,0:01:04.66,Default,NTP,0000,0000,0000,!Effect,Pod moj¹ nieobecnoœæ Malak\Nby³ zajêty szukaniem informacji.
+Dialogue: Marked=0,0:01:05.33,0:01:08.16,Default,NTP,0000,0000,0000,!Effect,Zadziwiaj¹ce, jak wiele\Nwygrzeba³ w tak krótkim czasie.
+Dialogue: Marked=0,0:01:09.13,0:01:12.30,Default,NTP,0000,0000,0000,!Effect,Wci¹¿ jest coœ, co mog³abym\Nzrobiæ dla Kedara.
+Dialogue: Marked=0,0:01:13.16,0:01:16.66,Default,NTP,0000,0000,0000,!Effect,Lekarstwo znajduje siê\Nw zrujnowanym szpitalu,
+Dialogue: Marked=0,0:01:17.00,0:01:20.00,Default,NTP,0000,0000,0000,!Effect,w czêœci Miasta,\Nle¿¹cej po drugiej stronie barykady.
+Dialogue: Marked=0,0:01:21.00,0:01:24.00,Default,NTP,0000,0000,0000,!Effect,Szpital prowadzi³ zakon uzdrowicieli\Nz odleg³ej krainy.
+Dialogue: Marked=0,0:01:24.33,0:01:31.33,Default,NTP,0000,0000,0000,!Effect,Gdy M³otodzier¿cy wznieœli barykady celem ocalenia Miasta przed nieumar³ymi,
+Dialogue: Marked=0,0:01:31.40,0:01:37.00,Default,NTP,0000,0000,0000,!Effect,szpital zamkniêto, odcinaj¹c go\Nod reszty Miasta.
+Dialogue: Marked=0,0:01:37.33,0:01:42.20,Default,NTP,0000,0000,0000,!Effect,Uzdrowiciele s³u¿¹c bogini Amaris,\Ndzier¿yli potê¿ny relikt.
+Dialogue: Marked=0,0:01:42.30,0:01:46.00,Default,NTP,0000,0000,0000,!Effect,"Szale", daj¹ce mo¿liwoœæ leczenia œmiertelnych chorób
+Dialogue: Marked=0,0:01:46.33,0:01:53.33,Default,NTP,0000,0000,0000,!Effect,oraz, wierz¹c legendom, w wielu\Nprzypadkach wskrzeszania zmar³ych.
+Dialogue: Marked=0,0:01:54.16,0:01:59.16,Default,NTP,0000,0000,0000,!Effect,Malak twierdzi, i¿ Szale mog¹ pomóc Kedarowi.\NZamierzam je znaleŸæ.
+Dialogue: Marked=0,0:01:59.33,0:02:03.33,Default,NTP,0000,0000,0000,!Effect,W œrodku z pewnoœci¹ stanê\Ndo walki z nieumar³ymi.
+Dialogue: Marked=0,0:02:03.66,0:02:07.83,Default,NTP,0000,0000,0000,!Effect,Malak wie, i¿ szpital jest nawiedzony.\NNiestety to wszystko co mo¿e mi przekazaæ.
+Dialogue: Marked=0,0:02:08.60,0:02:10.00,Default,NTP,0000,0000,0000,!Effect,To niczego nie zmienia.
+Dialogue: Marked=0,0:02:10.33,0:02:12.66,Default,NTP,0000,0000,0000,!Effect,Znajdê Szale i wydostanê siê stamt¹d.
+Dialogue: Marked=0,0:02:13.33,0:02:18.03,Default,NTP,0000,0000,0000,!Effect,Myœla³am, ¿e ju¿ nigdy nie zobaczê Kedara, teraz zaœ mam szansê go ocaliæ.
+Dialogue: Marked=0,0:02:18.96,0:02:21.66,Default,NTP,0000,0000,0000,!Effect,Tym razem nie mogê zawieœæ!

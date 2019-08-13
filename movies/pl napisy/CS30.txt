@@ -1,0 +1,19 @@
+{230}{300} Powinniœmy j¹ tropiæ? 
+{310}{368} By³aby dla nas bardzo cennym nabytkiem.
+{373}{454} Nie... |Zostaw j¹ w spokoju. 
+{460}{600} Doœæ wycierpia³a, zaœ nasze plany |tym razem kr¹¿¹ wokó³ Wybrañca.
+{615}{660} Zaprawdê, jak mówi¹ glify:
+{664}{800} "Czasem to, co zosta³o zapisane, |odczytywane jest na nowo."
+{805}{940} "Stare oczy, widz¹ce wyraŸniej w innym œwietle, z innego punktu widzenia,
+{950}{1067} ujawniaj¹ prawdy ukryte |i od dawna nieuchwytne."
+{1100}{1245} Glify obejm¹ wszystko, |lecz rozumienie ich mo¿e byæ sk¹pe.
+{1250}{1350} Opuszcza Miasto... |Z brakiem czegoœ...
+{1360}{1530} Jak Wybraniec, który opuœci³ nas blisko celu. Nietkniêty, lecz zmieniony.
+{1545}{1655} Ich historie splataj¹ siê |i staj¹ siê jedn¹.
+{1660}{1730} A wiêc tak to siê koñczy... 
+{1740}{1850} Co zrobimy teraz? | Czy glify to zapowiedzia³y?
+{1855}{1944} Sta³o siê, jak zosta³o zapisane. 
+{1954}{2100} Glify s¹ niezmienne. Kurtyna zosta³a podniesiona, a my ujrzymy...
+{2120}{2154} ...co nadchodzi.
+{2210}{2330} "T2X - Cienie Ery Metalu"
+{2340}{2500} Zespó³ t³umaczy:|Raven, Spidey, WhiteNigga, Keeper, Mixthoor

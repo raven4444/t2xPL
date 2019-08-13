@@ -1,0 +1,40 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:07.00,0:00:10.66,Default,NTP,0000,0000,0000,!Effect,"Odwieczny cykl,\NUpadki i wzloty, odrodzenie i œmieræ.
+Dialogue: Marked=0,0:00:11.00,0:00:15.33,Default,NTP,0000,0000,0000,!Effect,Pe³ni nadziei oraz zach³anni daj¹ pocz¹tek\NMiastu, które obserwujemy.
+Dialogue: Marked=0,0:00:19.00,0:00:22.33,Default,NTP,0000,0000,0000,!Effect,Uczestniczymy w jego nieszczêœciu.\NPrzywracamy równowagê, gdy szale siê chwiej¹.
+Dialogue: Marked=0,0:00:22.66,0:00:26.66,Default,NTP,0000,0000,0000,!Effect,Lecz nie ubolewamy nad poleg³ymi."
+Dialogue: Marked=0,0:00:27.33,0:00:31.33,Default,NTP,0000,0000,0000,!Effect,"Kronika Stra¿ników, Historia Miasta"
+Dialogue: Marked=0,0:00:32.66,0:00:36.00,Default,NTP,0000,0000,0000,!Effect,Nigdy nie przypuszcza³am, i¿ natknê siê na tak¹ zagadkê.
+Dialogue: Marked=0,0:00:37.00,0:00:40.00,Default,NTP,0000,0000,0000,!Effect,Przynajmniej biuro Limesa dostarczy³o mi garœæ informacji.
+Dialogue: Marked=0,0:00:41.33,0:00:46.33,Default,NTP,0000,0000,0000,!Effect,Ta sprawa na nowo otwiera stare rany.\NWiedzia³am jednak, i¿ ten dzieñ nadejdzie.
+Dialogue: Marked=0,0:00:46.66,0:00:50.00,Default,NTP,0000,0000,0000,!Effect,Malak szkoli³ mnie, bym pomœci³a Kedara.
+Dialogue: Marked=0,0:00:50.50,0:00:54.33,Default,NTP,0000,0000,0000,!Effect,Przemytnicy... To oni musieli go zabiæ!
+Dialogue: Marked=0,0:00:56.16,0:00:57.33,Default,NTP,0000,0000,0000,!Effect,Ale dlaczego?
+Dialogue: Marked=0,0:00:58.50,0:01:04.66,Default,NTP,0000,0000,0000,!Effect,Có¿ takiego posiada³, czego oni nie mieli?\NNawet nie wiem, gdzie siê znajduj¹...
+Dialogue: Marked=0,0:01:05.33,0:01:07.33,Default,NTP,0000,0000,0000,!Effect,Istnieje tylko jeden sposób, aby siê przekonaæ!
+Dialogue: Marked=0,0:01:08.33,0:01:11.33,Default,NTP,0000,0000,0000,!Effect,Muszê przeszukaæ okolice Targowiska i znaleŸæ sklep Kedara.
+Dialogue: Marked=0,0:01:12.26,0:01:16.33,Default,NTP,0000,0000,0000,!Effect,Mam nadziejê, ¿e natknê siê tam na wskazówkê b¹dŸ jak¹œ informacjê,
+Dialogue: Marked=0,0:01:16.66,0:01:19.00,Default,NTP,0000,0000,0000,!Effect,z której dowiem siê, kim s¹ ci przemytnicy...
+Dialogue: Marked=0,0:01:19.33,0:01:21.00,Default,NTP,0000,0000,0000,!Effect,I gdzie siê okrywaj¹...
+Dialogue: Marked=0,0:01:21.66,0:01:25.33,Default,NTP,0000,0000,0000,!Effect,Od zmroku a¿ po œwit trwa godzina policyjna,\Nzatem bêdê musia³a unikaæ Stra¿y Miejskiej.
+Dialogue: Marked=0,0:01:26.33,0:01:28.66,Default,NTP,0000,0000,0000,!Effect,Nie mniej jednak lepiej wyruszyæ noc¹.
+Dialogue: Marked=0,0:01:29.33,0:01:33.33,Default,NTP,0000,0000,0000,!Effect,Dzieki temu mniej osób zauwa¿y nielegalne wtargniecie do sklepu Kedara...
+Dialogue: Marked=0,0:01:34.00,0:01:36.00,Default,NTP,0000,0000,0000,!Effect,Jak i do innych pobliskich miejsc...
+Dialogue: Marked=0,0:01:36.66,0:01:41.66,Default,NTP,0000,0000,0000,!Effect,Nie uszanuj¹ ¿adnego w³amywacza, nawet jeœli ma ku temu wa¿ny powód.
+Dialogue: Marked=0,0:01:42.50,0:01:46.66,Default,NTP,0000,0000,0000,!Effect,Na Targowisko prowadzi brama, lecz najprawdopodobniej\Nistnieje równie¿ inna droga,
+Dialogue: Marked=0,0:01:47.33,0:01:49.66,Default,NTP,0000,0000,0000,!Effect,o kana³ach nie wspominaj¹c.
+Dialogue: Marked=0,0:01:50.00,0:01:52.33,Default,NTP,0000,0000,0000,!Effect,Jednak smród niezbyt mi odpowiada...
+Dialogue: Marked=0,0:01:53.33,0:01:57.66,Default,NTP,0000,0000,0000,!Effect,Tak czy owak, nie mam pojêcia, gdzie jest sklep Kedara.
+Dialogue: Marked=0,0:01:58.33,0:02:01.16,Default,NTP,0000,0000,0000,!Effect,Wspomina³, i¿ znajdowa³ siê w jakimœ budynku z innymi sklepami.
+Dialogue: Marked=0,0:02:01.83,0:02:07.33,Default,NTP,0000,0000,0000,!Effect,Je¿eli to prawda, powinien byæ gdzieœ we wschodniej czêœci Targowiska.
+Dialogue: Marked=0,0:02:07.66,0:02:13.33,Default,NTP,0000,0000,0000,!Effect,Nim znikn¹³ na ca³y dzieñ, Malak da³ mi coœ o nazwie "katalizatora ¿ywio³ów".
+Dialogue: Marked=0,0:02:13.66,0:02:19.33,Default,NTP,0000,0000,0000,!Effect,Nie jestem pewna jak to dzia³a. Malak rzek³, i¿ zmienia kryszta³y mych strza³.
+Dialogue: Marked=0,0:02:20.00,0:02:21.33,Default,NTP,0000,0000,0000,!Effect,Rozpracujê to po drodze...
+Dialogue: Marked=0,0:02:22.33,0:02:28.16,Default,NTP,0000,0000,0000,!Effect,Up³yn¹³ ju¿ rok, odk¹d wci¹¿ odczuwam g³êboki smutek na myœl o œmierci Kedara.
+Dialogue: Marked=0,0:02:29.33,0:02:33.66,Default,NTP,0000,0000,0000,!Effect,Trudno bêdzie wtargn¹æ do jego sklepu, lecz muszê to zrobiæ.
+Dialogue: Marked=0,0:02:35.33,0:02:40.00,Default,NTP,0000,0000,0000,!Effect,Nie myœlê nawet, dok¹d zabra³by mnie w tamten fatalny dzieñ...
+Dialogue: Marked=0,0:02:40.00,0:02:44.66,Default,NTP,0000,0000,0000,!Effect,Koniec z tym!\NCzas zacz¹æ...

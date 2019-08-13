@@ -1,0 +1,35 @@
+{210}{320} "Odwieczny cykl, | Upadki i wzloty, odrodzenie i œmieræ.
+{330}{460} Pe³ni nadziei oraz zach³anni daj¹ pocz¹tek | Miastu, które obserwujemy.
+{570}{670} Uczestniczymy w jego nieszczêœciu. | Przywracamy równowagê, gdy szale siê chwiej¹.
+{680}{800} Lecz nie ubolewamy nad poleg³ymi."
+{820}{940} "Kronika Stra¿ników, Historia Miasta"
+{980}{1080} Nigdy nie przypuszcza³am, i¿ natknê siê na tak¹ zagadkê. 
+{1110}{1200} Przynajmniej biuro Limesa dostarczy³o mi garœæ informacji.
+{1240}{1390} Ta sprawa na nowo otwiera stare rany. | Wiedzia³am jednak, i¿ ten dzieñ nadejdzie.
+{1400}{1500} Malak szkoli³ mnie, bym pomœci³a Kedara.
+{1515}{1630} Przemytnicy... To oni musieli go zabiæ!
+{1685}{1720} Ale dlaczego?
+{1755}{1940} Có¿ takiego posiada³, czego oni nie mieli? | Nawet nie wiem, gdzie siê znajduj¹...
+{1960}{2020} Istnieje tylko jeden sposób, aby siê przekonaæ!  
+{2050}{2140} Muszê przeszukaæ okolice Targowiska i znaleŸæ sklep Kedara.
+{2168}{2290} Mam nadziejê, ¿e natknê siê tam na wskazówkê b¹dŸ jak¹œ informacjê,
+{2300}{2370} z której dowiem siê, kim s¹ ci przemytnicy...
+{2380}{2430} I gdzie siê okrywaj¹...
+{2450}{2560} Od zmroku a¿ po œwit trwa godzina policyjna,| zatem bêdê musia³a unikaæ Stra¿y Miejskiej.
+{2590}{2660} Nie mniej jednak lepiej wyruszyæ noc¹.
+{2680}{2800} Dzieki temu mniej osób zauwa¿y nielegalne wtargniecie do sklepu Kedara... 
+{2820}{2880} Jak i do innych pobliskich miejsc...
+{2900}{3050} Nie uszanuj¹ ¿adnego w³amywacza, nawet jeœli ma ku temu wa¿ny powód.
+{3075}{3200} Na Targowisko prowadzi brama, lecz najprawdopodobniej | istnieje równie¿ inna droga,
+{3220}{3290} o kana³ach nie wspominaj¹c.
+{3300}{3370} Jednak smród niezbyt mi odpowiada...
+{3400}{3530} Tak czy owak, nie mam pojêcia, gdzie jest sklep Kedara.
+{3550}{3635} Wspomina³, i¿ znajdowa³ siê w jakimœ budynku z innymi sklepami.
+{3655}{3820} Je¿eli to prawda, powinien byæ gdzieœ we wschodniej czêœci Targowiska.
+{3830}{4000} Nim znikn¹³ na ca³y dzieñ, Malak da³ mi coœ o nazwie "katalizatora ¿ywio³ów".
+{4010}{4180} Nie jestem pewna jak to dzia³a. Malak rzek³, i¿ zmienia kryszta³y mych strza³.
+{4200}{4240} Rozpracujê to po drodze...
+{4270}{4445} Up³yn¹³ ju¿ rok, odk¹d wci¹¿ odczuwam g³êboki smutek na myœl o œmierci Kedara.
+{4480}{4610} Trudno bêdzie wtargn¹æ do jego sklepu, lecz muszê to zrobiæ.
+{4660}{4800} Nie myœlê nawet, dok¹d zabra³by mnie w tamten fatalny dzieñ...
+{4800}{4940} Koniec z tym! | Czas zacz¹æ...

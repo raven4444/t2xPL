@@ -1,0 +1,12 @@
+save: "Zapisz"
+done: "Gotowe"
+
+unused: "<Pusty>"
+
+initial: "Zaznacz plik do zapisu."
+saving: "Zapisywanie..."
+
+success: "Zapis udany"
+failure: "Zapis nieudany"
+
+my_binds: "Ustawienia"

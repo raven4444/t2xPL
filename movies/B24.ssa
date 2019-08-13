@@ -1,0 +1,33 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:06.66,0:00:10.83,Default,NTP,0000,0000,0000,!Effect,"Le¿ywszy w dole wœród sztywnych, by spontanicznie odpocz¹æ.\NOds³aniawszy swe koœci,
+Dialogue: Marked=0,0:00:11.00,0:00:15.00,Default,NTP,0000,0000,0000,!Effect,Wierciwszy siê, czo³gawszy, brykawszy...\NTe glisty, larwy i ¿uczki...
+Dialogue: Marked=0,0:00:19.00,0:00:22.66,Default,NTP,0000,0000,0000,!Effect,Le¿ywszy na plecach,\Ngdy twa piêkna krew schn¹wsza.
+Dialogue: Marked=0,0:00:22.83,0:00:26.16,Default,NTP,0000,0000,0000,!Effect,Le¿ywszy na plecach w dole,\Nwœród umar³ych."
+Dialogue: Marked=0,0:00:26.46,0:00:31.33,Default,NTP,0000,0000,0000,!Effect,Stary Pogañski Zwój, Zapisany Krwi¹
+Dialogue: Marked=0,0:00:31.83,0:00:36.33,Default,NTP,0000,0000,0000,!Effect,Ci M³otodzier¿cy - jakby to uj¹æ -\Ns¹ "ekstrymalnymi fanatykami"!
+Dialogue: Marked=0,0:00:36.66,0:00:38.66,Default,NTP,0000,0000,0000,!Effect,I takimi samymi hipokrytami...
+Dialogue: Marked=0,0:00:38.83,0:00:43.50,Default,NTP,0000,0000,0000,!Effect,NajwyraŸniej zadufani pró¿niacy\Ntrac¹ sw¹ pozycjê w Mieœcie.
+Dialogue: Marked=0,0:00:43.73,0:00:46.00,Default,NTP,0000,0000,0000,!Effect,Mimo w³adzy w S³onecznym Porcie
+Dialogue: Marked=0,0:00:46.33,0:00:49.50,Default,NTP,0000,0000,0000,!Effect,obawiaj¹ siê, ¿e to, co sta³o siê w Mieœcie,\Nspotka ich równie¿ tutaj.
+Dialogue: Marked=0,0:00:50.33,0:00:54.66,Default,NTP,0000,0000,0000,!Effect,Sk³aduj¹ swe cenne rupiecie w miejscu,\Ndo którego nikt rozs¹dny by nie zajrza³...
+Dialogue: Marked=0,0:00:55.66,0:00:59.83,Default,NTP,0000,0000,0000,!Effect,W starym, opuszczonym Mauzoleum,\Nzaraz za miastem.
+Dialogue: Marked=0,0:00:59.96,0:01:02.73,Default,NTP,0000,0000,0000,!Effect,"Czego oczy nie widz¹, tego sercu nie ¿al"\Npowiadaj¹...
+Dialogue: Marked=0,0:01:02.83,0:01:06.00,Default,NTP,0000,0000,0000,!Effect,NajwyraŸniej jednak ich plan zawodzi.
+Dialogue: Marked=0,0:01:06.66,0:01:10.00,Default,NTP,0000,0000,0000,!Effect,Cavador wys³a³ kilka tygodni temu Kap³ana Onama z garstka nowicjuszy,
+Dialogue: Marked=0,0:01:10.33,0:01:15.33,Default,NTP,0000,0000,0000,!Effect,by odnaleŸli "Kulê œw. Basmusa",\Nlecz nikt nie powróci³.
+Dialogue: Marked=0,0:01:15.83,0:01:19.66,Default,NTP,0000,0000,0000,!Effect,Wygl¹da na to, ¿e miejsce\Nzape³ni³o siê nieumar³ymi.
+Dialogue: Marked=0,0:01:20.50,0:01:22.66,Default,NTP,0000,0000,0000,!Effect,Chyba nie powinnam ich za to winiæ.
+Dialogue: Marked=0,0:01:23.16,0:01:26.66,Default,NTP,0000,0000,0000,!Effect,M³oty wierz¹, i¿ poprawnie u¿yta Kula
+Dialogue: Marked=0,0:01:27.00,0:01:30.00,Default,NTP,0000,0000,0000,!Effect,jest w stanie zwycie¿yæ Mechanistów\Noraz ich maszyny.
+Dialogue: Marked=0,0:01:30.33,0:01:34.66,Default,NTP,0000,0000,0000,!Effect,Przynajmniej takiej wymówki u¿y³\NCavador wobec Onama.
+Dialogue: Marked=0,0:01:35.33,0:01:38.33,Default,NTP,0000,0000,0000,!Effect,Zwa¿ywszy, ¿e ta dwójka\Nnie ufa sobie nawzajem,
+Dialogue: Marked=0,0:01:38.66,0:01:41.33,Default,NTP,0000,0000,0000,!Effect,nie zdziwi³abym siê, gdyby historia ta\Nokaza³a siê fa³szem.
+Dialogue: Marked=0,0:01:41.56,0:01:46.10,Default,NTP,0000,0000,0000,!Effect,Nie zmienia to faktu, i¿ muszê tam zejœæ,\Njeœli mam zdobyæ tê Kulê.
+Dialogue: Marked=0,0:01:46.66,0:01:50.00,Default,NTP,0000,0000,0000,!Effect,A gdy ju¿ j¹ znajdê, zwrócê uwagê\NM³otów na przemytników,
+Dialogue: Marked=0,0:01:50.33,0:01:53.33,Default,NTP,0000,0000,0000,!Effect,nie zwracaj¹c przy tym uwagi na siebie.
+Dialogue: Marked=0,0:01:54.00,0:01:56.66,Default,NTP,0000,0000,0000,!Effect,Muszê dostaæ siê tam szybko\Ni czym prêdzej stamt¹d czmyhn¹æ...
+Dialogue: Marked=0,0:01:57.33,0:02:00.00,Default,NTP,0000,0000,0000,!Effect,W przeciwnym wypadku skoñczê jak\NOnam i pozostali.

@@ -1,0 +1,271 @@
+--------------------------------------------------------v1.4--------------------------------------------------------
+01advent
+- zamiana "Czarcie Ko³o" na "Czarci Kr¹g"
+
+01spells
+- usuniêto podwójne "i" ze s³owa "Rychalli"
+
+mis2mummy3
+- poprawienie odmiany imienia mumii
+
+mis2mummy6
+- korekta interpunkcji
+
+mis3kedar2
+- korekta w zdaniach "Prawdopodobnie dlatego, ¿e namalowana kobieta by³a czêœciowo naga... Przysiêgam, ¿e Limes nie ma zami³owania do sztuki!"
+- dodano brakuj¹ce "i" pomiêdzy "przej¹æ i \"rz¹dziæ\""
+
+mis3request
+- korekta s³ów "uprz¹tn¹æ" i "najemców"
+
+mis3winelist
+- korekty nazwtrunków na "Kruczoczarne Piwo" oraz Browar "Benny'ego Mózgo-Trzep"
+
+mis4punish
+- korekta s³ów "niezak³ócanie", "którzy"
+- wielkie litery przy "Zajezdniê Maszyn Parowych"
+
+mis5bodusripper
+- korekta s³owa "Och"
+
+mis5cleanup
+- korekta interpunkcji
+
+mis5inkitchen
+- korekta interpunkcji
+
+mis5journal1
+- korekta interpunkcji
+
+mis5neestogris
+- korekta s³owa "sprawdza³y"
+
+mis5shipcharm
+- korekta s³ów "wiêksze" i "który"
+
+mis5lockpick
+- zamiana "A i przynieœ..." na "No i przynieœ"
+
+mis7fourmen
+- korekta treœci, aby siê rymowa³o
+
+mis7Skull
+- korekta treœci, aby siê rymowa³o
+
+mis8CavadorTrash
+- dodano brakuj¹ce "l" w imieniu "Dibbler"
+
+mis8Elementals
+- korekta s³owa "wstêpne"
+
+mis8SewerDeathNote
+- korekta odstepów i interpunkcji
+
+mis9cleanbodies
+- korekta b³êdów ortograficznych i interpunkcji
+
+mis9insafe
+- korekta literówek i interpunkcji
+
+mis9truart
+- zamiana zdania "ale wci¹¿ s¹ wolne miejsca na szubienicy" na "lecz wci¹¿ mamy wolne miejsca na szubienicy"
+- korekta interpunkcji
+- korekta s³owa "Volari"
+- z uwagi na du¿¹ iloœæ przecinków w jednym zdaniu, stworzono dwa mniejsze: "Prowadzimy powa¿ny biznes, panie Frederoc. Jesteœmy zainteresowani jedynie szumowinami z ulic, za którymi nikt nie bêdzie têskni³."
+
+t2x10builder
+- dodano "narzêdziami danymi przez Budowniczego" zamiast "narzêdziami Budowniczego"
+
+t2x10Morgan
+- zmieniono œmiech na "che, che, che"
+- s³owo "kurwa" zostaje
+
+t2x10truart
+- korekta s³owa "Staleya"
+
+mis11guestbook
+- korekta nazwiska goœci "Lord Gerwazjusz" oraz "Lady Ludwika"
+
+mis12borthold
+- korekta s³owa "tawernê"
+
+mis13viknote
+- korekta zdania "Po wielkiej bitwie, któr¹ stoczy³, ponownie siê ukry³."
+- korekta s³owa "mo¿na"
+- zamiana "Konstantyn" na "Leœny Pan"
+
+
+Goals - miss28 / misja nr 11
+- korekta w zdaniu "Gdyby nie sproœne mendy..."
+--------------------------------------------------------V1.5--------------------------------------------------------
+1. Korekty techniczne:
+
+-poprawiono skryp instalacyjny
+-zintegrowano spolszczone filmy z g³ównym spolszczeniem
+-naprawiono b³¹d z brakiem wyœwietlania statystyk po misji
+
+
+2. Korekty t³umaczeñ:
+
+mis13viknote
+-korekta s³owa "obalaæ"
+
+t2x10truart
+-Zamiana "Shoalsgate" na "Stacjê Nadrzecze"
+
+mis12alinya4
+-korekta s³owa "s¹"
+
+mis12alinya2
+-korekta s³owa "pozwólmy"
+
+mis12alinya1
+-korekta s³owa "przykrywk¹"
+-korekta s³owa "wiêc"
+
+mis11menu
+-zamiana s³owa "Blackbrook" na "Czarnolesie"
+
+mis11kitchen
+-korekta s³owa "przez"
+
+mis11finkjourn
+-korekta s³owa "wzi¹æ"
+-korekta s³owa "powtarza"
+
+mis11desserts
+-korekta s³owa "s³yszeliœcie"
+
+mis8SmugBook4
+-korekta s³owa "przywi¹zane"
+
+mis8mech1
+-korekta s³owa "z³o¿yliœmy"
+
+mis7piest
+-korekta s³owa "latarni"
+
+mis7adolpho
+-korekta s³owa "zdo³a³em"
+
+mis6semuel
+-korekta s³owa "zapa³a³em"
+
+mis6onam
+-korekta s³owa "samo zachwyt"
+
+mis6beg
+-korekta s³owa "wst¹pienie"
+
+mis5journal1
+-korekta s³owa "zarozumiali"
+
+mis5gristonees
+-korekta s³owa "powiedzenia"
+-korekta s³owa "pomyœla³em"
+
+mis5coal
+-korekta s³owa "kryjówce"
+
+mis5cleanup
+-korekta s³owa "w³óczêgê"
+-korekta s³owa "sobie"
+
+mis4sunbuilt
+-korekta s³owa "których"
+
+mis4sleeper
+-korekta s³owa "szczêœcie"
+
+mis3tower
+-korekta s³owa "odnalezienia"
+
+mis3kedar2
+-korekta s³owa "przeciwstawiaæ"
+-korekta s³owa "odebraæ"
+
+mis2split
+-korekta s³owa "powinien by³"
+
+mis2mum
+-korekta s³owa "profesjonalizmu"
+
+01advent
+-korekta s³owa "pe³ga³a"
+
+
+--------------------------------------------------------v1.6--------------------------------------------------------
+
+mis13malak1
+- korekta s³owa "znajomi"
+
+mis13viknote
+- korekta s³owa "kradzieja"
+- dodano linijkê odstêpu przed s³owem "Viktoria"
+
+mis13malak4
+- poprawiono " w s³owie  \"uzdrowicielom\"
+
+mis12alinya1
+- korekta s³owa "Niewa¿ne" 
+
+mis12alinya3
+- korekta s³owa "zdo³a³am"
+
+mis11lib1
+- koreka ,
+
+mis11random3
+- koreka ,
+
+mis5coal
+- koekta zdania: "Nie jesteœmy barbarzyñcami, nie chcemy ¿eby towar"...
+
+goals
+- korekta celu nr 2 w celach misji
+
+mis8KarrasSermon
+- korekta "wszelkich"
+
+mis7G38
+- korekta œmierci W.Szymborskiej
+
+mis7Ham3
+- korekta "poch³on¹³"
+
+mis7G26
+- korekta "¿ycie me"
+
+mis7G21
+- korekta "Bankier"
+
+mis7G9
+- korekta "Zabrali mi ciê"
+
+mis6Gill
+- korekta "dopóki sytuacja siê nie umityguje"
+
+mis4burrick
+- korekta "be³kotliwca"
+
+mis5bodusripper
+- korekta "¿a³oœnie"
+- Honeymelon przet³umaczono na "Miodnobuzkowa"
+
+mis5requis
+- poprawiono nazwiska wg zgodnoœci z Antologi¹
+
+mis2penny
+- zmiana nazwiska na "Perniliusz Dusigrosz"
+- korekta "analogiczne "
+- korekta "dzie³a"
+
+mis2burrick
+- korekta "biedne "
+
+01madnot
+- "ni chuja" zmieniono na "O nie!"
+
+mis4sleeper
+- korekta "jakiœ"
+- korekta " które"

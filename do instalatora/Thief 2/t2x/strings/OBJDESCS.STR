@@ -1,0 +1,97 @@
+use_blackjack: "Za pomoc¹ tej broni mo¿na niemal bezszelestnie i bez rozlewu krwi og³uszyæ nieœwiadomego niebezpieczeñstwa przeciwnika."
+
+use_breath: "Dziêki tej butelce zyskasz dodatkow¹ dawkê powietrza i mo¿liwoœæ przed³u¿enia o kilka sekund pobytu pod wod¹. Cena: 125"
+
+use_broadhead: "To ostra strza³a. Cena: 25"
+
+use_fire: "Strza³a eksploduje, zapalaj¹c odpowiednie obiekty, np. pochodnie. Nie porusza siê po torze parabolicznym i trzeba umieszczaæ cel w górnej czêœci zbli¿onego widoku. Cena: 225"
+
+use_flash: "Wybuch tego granatu wytworzy jasny b³ysk œwiat³a, oœlepiaj¹c zarówno przeciwników, którzy na niego spojrz¹, jak te¿ nieostro¿nego z³odzieja. Cena: 200"
+
+use_gasarrow: "Wytworzy chmurê gazu, usypiaj¹c znajduj¹ce siê w pobli¿u stworzenia. Nie porusza siê po torze parabolicznym. Cel nale¿y umieszczaæ w górnej czêœci zbli¿onego widoku. Cena: 500"
+
+use_gasmine: "Ten ³adunek posiada czujnik zbli¿eniowy i wytworzy chmurê zwalaj¹cego z nóg gazu, jeœli ktoœ podejdzie zbyt blisko. Gdy siê uzbroi, mo¿na go wy³¹czyæ tylko za pomoc¹ wytrychów. Cena: 500"
+
+use_healing: "Ta mikstura poprawi stan twojego zdrowia. Cena: 250"
+
+use_holywater: ""
+
+use_slowfall: "Ta mikstura zmniejszy prêdkoœæ twojego spadania i ograniczy oddzia³ywanie si³y grawitacji. Cena: 150"
+
+use_invisibility: "Ta mikstura sprawi, ¿e staniesz siê niewidzialny! Pamiêtaj jednak, ¿e dzia³a tylko przez kilka sekund, a po jej wypiciu nadal bêdziesz s³yszalny dla otoczenia. Cena: 600"
+
+use_lockpick: "Dziêki tym narzêdziom otworzysz bez trudu wiêkszoœæ zamków."
+
+use_pricey_lockpick: "Dziêki tym narzêdziom otworzysz bez trudu wiêkszoœæ zamków. Cena: 4000 za jeden komplet."
+
+use_mine: "Ten ³adunek posiada czujnik zbli¿eniowy i wywo³a ognist¹ eksplozjê, jeœli ktoœ podejdzie zbyt blisko. Gdy siê uzbroi, mo¿na go wy³¹czyæ tylko za pomoc¹ wytrychów. Cena: 350"
+
+use_moss: "Po zetkniêciu z celem strza³a wytworzy po³acie mchu, które zamieni¹ siê w miêkki i t³umi¹cy odg³osy dywan. Cena: 150"
+
+use_noisemaker: "Mechanizm w tej strzale wydaje dziwny dŸwiêk, gdy zetknie siê z celem, co odwraca uwagê przeciwnika. Cena: 250"
+
+use_rope: "Ta strza³a z przywi¹zan¹ lin¹ do wspinaczki utkwi w ka¿dej drewnianej powierzchni. Cena: 200"
+
+use_vine: "Magiczna strza³a Wiktorii (przemycona do Miasta dziêki licznym ³apówkom) zakorzeni siê w metalowych kratach i w ka¿dej powierzchni, w której utkwi³aby strza³a linowa. Cena: 200"
+
+use_sword: "Miecz pozwala nie tylko na zadawanie ran przeciwnikowi, ale te¿ na blokowanie jego ciosów."
+
+use_water: "Strza³a wodna nie czyni ¿adnych szkód przeciwnikowi, gasi jednak pochodnie lub inne p³on¹ce przedmioty, a tak¿e zmywa plamy krwi. Cena: 75"
+
+use_tip: "Mo¿esz uzyskaæ pewne informacje... za drobn¹ op³at¹. Cena: 25"
+
+use_tip50: "Mo¿esz uzyskaæ pewne informacje... za drobn¹ op³at¹. Cena: 50"
+
+use_tip100: "Mo¿esz uzyskaæ pewne informacje... za drobn¹ op³at¹. Cena: 100"
+
+use_hammertip: "Pewien M³otodzier¿ca posiada wa¿ne informacje, ale chce, ¿ebyœ za nie zap³aci³. Podobno pomagaj¹c bezinteresownie z³odziejowi, splami³by swoj¹ duszê. Cena: 100"
+
+use_speed: "Ta mikstura na pewien czas znacz¹co zwiêkszy szybkoœæ twoich ruchów. Cena: 300"
+
+use_equiptip: "Co prawda miejscowy kupiec nie posiada przedmiotów, których potrzebujesz, ale wie, gdzie móg³byœ je zdobyæ. Cena: 200"
+
+use_diamondtip: "Pobyt w Mieœcie stwarza wiele lukratywnych okazji dla wyszkolonego z³odzieja. Trzeba tylko wiedzieæ, gdzie ich szukaæ. Cena: 100"
+
+use_scripture: "Od Wiktorii otrzyma³eœ pierwszy fragment Nowego Kodeksu Mistrza Budowniczego, który wyszed³ spod pióra Karrasa."
+
+use_flare: "Flara oœwietli na pewien czas najbli¿sze otoczenie. Cena: 25"
+
+use_camera: "Kula przekazuje obraz z miejsca, w którym siê znajduje, do mechanicznego oka Garretta (korzystaj¹c z wibracji eteru). Naciœnij klawisz U¯YCIA, aby zerwaæ ³¹cznoœæ. Cena: 300"
+
+use_birdcall: "To urz¹dzenie sygnalizacyjne wytworzy charakterystyczny i niewzbudzaj¹cy podejrzeñ dŸwiêk, który przywo³a Bazyla."
+
+use_frogegg: "Kokony, przemycone do Miasta przez szpiegów Wiktorii, rozerw¹ siê na kawa³ki, jeœli zostan¹ rzucone. Wy³oni siê z nich ¿abnica, nowy sprzymierzeniec z³odzieja. Cena: 200"
+
+use_m12keys: "Kiedy by³eœ ostatnim razem w posiad³oœci, zabra³eœ pewne klucze. Teraz mog¹ siê przydaæ."
+
+use_m12letter: "List Karrasa do Gerwazjusza. Interesuj¹ca lektura."
+
+use_FlashMine: "Ten ³adunek posiada czujnik zbli¿eniowy i wytworzy jasny b³ysk œwiat³a, jeœli ktoœ podejdzie zbyt blisko. Gdy siê uzbroi, mo¿na go wy³¹czyæ tylko za pomoc¹ wytrychów. Cena: 350"
+
+use_SDBoxKey: "Klucz do skrytki depozytowej Mechanistów, którego kopiê wykona³eœ."
+
+use_icecat: "Katalizator który przemieni Twoje wodne strza³y w ich pogañskie odpowiedniki."
+
+use_firecat: "Katalizator który przemieni Twoje wodne i ogniste strza³y w ich pogañskie odpowiedniki."
+
+use_earthcat: "Katalizator który przemieni Twoje wodne, ogniste oraz mchowe strza³y w ich pogañskie odpowiedniki."
+
+use_aircat: "Katalizator który przemieni Twoje wodne, ogniste, mchowe oraz gazowe strza³y w ich pogañskie odpowiedniki."
+
+use_hoil: "Œrodek uzdrawiaj¹cy, który wyleczy Twoje rany. Cena: 250"
+
+use_concealment: "Staro¿ytny eliksir, który na krótki okres czasu pomo¿e ukryæ siê w cieniu, wyciszaj¹c Twoje kroki. Cena: 500"
+
+use_spideregg: "Jaja paj¹ków zamieszkuj¹cych Paszczê Chaosu. Bestie nie ¿yj¹ zbyt d³ugo, lecz uwolnione zaatakuj¹ ka¿dego w polu widzenia. Cena: 250"
+
+use_emp: "Wybuch tego granatu wytworzy impuls, który wy³¹czy urz¹dzenia napêdzane par¹, w³¹czaj¹c w to lampy, roboty i maski. Cena: 200"
+
+use_locust: "Gniazda œmiercionoœnych owadów, które poch³on¹ znajduj¹ce siê obok nich ludzkie zw³oki, bez wzglêdu na rozmiar. Cena: 250"
+
+use_hairpin: "Odpowiednik wytrycha."
+
+use_malaknote: "List od Malaka."
+
+use_cavnote: "List do Cavadora, o Kuli w kryjówce Wolnych Handlarzy."
+
+use_basorb: "Kula œw. Basmusa, skradziona z Mauzoleum. Umieœæ j¹ w S³odkim Mieszku, by wrobiæ Wolnych Handlarzy." 

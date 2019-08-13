@@ -1,0 +1,17 @@
+{200}{300} Diggers you in bone and casket | Finders you an old man's grave
+{320}{460} Steals you feathers and stones and jewels | Steals you hearts and bellies and canes
+{550}{670} But disturb the earth | and that which rots | The Woodsie One will come fail not
+{680}{820} To diggers the eyes | from the thiefsie manfools brains
+{830}{900} - New Etching in an Abandoned Trickster Temple
+{1000}{1090} It's amazing what skills one can learn in a year.
+{1110}{1340} Malak is a good teacher and has taught me many things, | such as how to 'walk among the shadows', as he calls it.
+{1370}{1520} I've also honed my skill with a variety of weaponry just in case | I need to protect myself.
+{1547}{1740} Malak says since I've been training hard and with determination, | he's decided to give me a little test.
+{1768}{1915} I'm supposed to sneak into a local museum that Malak says is relatively easy to get into.    
+{1920}{2020} Though there are many things I could steal that might aid in my quest,
+{2023}{2225} Malak has reminded me that he is not a fence, | and selling high priced items would bring us even more unwanted attention
+{2241}{2376} It's just as well...I'm not that confident in my abilities yet.
+{2380}{2440} My main target is this book. 
+{2455}{2616} Apparently it’s a fairly old book, | which has a large deal of notes on the city buildings of it's time.
+{2640}{2799} He didn't explain it much, just that it was ideal for our plans to get revenge.
+{2805}{2980} I hope he'll explain more later... | I have no reason not to trust him on this.

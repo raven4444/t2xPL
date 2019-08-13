@@ -1,0 +1,33 @@
+! Subtitle Tool by Tomas Zavodny. http://www.tomzavodny.cz
+Synch Point: Side 1 0m00s
+Collisions: Normal
+Timer: 100.0000
+Style: Default,Arial,26,253436,0,16777215,0,-1,0,2,2,2,20,20,10,0,1
+Dialogue: Marked=0,0:00:07.00,0:00:10.50,Default,NTP,0000,0000,0000,!Effect,"Wœród niezliczonych sposobów\Nna utracenie Równowagi,
+Dialogue: Marked=0,0:00:10.66,0:00:14.66,Default,NTP,0000,0000,0000,!Effect,D¹¿enie do zemsty\Nzaæmiewa pozosta³e.
+Dialogue: Marked=0,0:00:19.33,0:00:24.00,Default,NTP,0000,0000,0000,!Effect,Wabi¹c nieostro¿nych,\Nrozs¹dnych zaœ obracaj¹c w broñ,
+Dialogue: Marked=0,0:00:24.33,0:00:27.66,Default,NTP,0000,0000,0000,!Effect,Prowadzi g³upca,\Nby siêgn¹³ w³asnej zguby."
+Dialogue: Marked=0,0:00:28.00,0:00:30.33,Default,NTP,0000,0000,0000,!Effect,"Kroniki Stra¿ników"
+Dialogue: Marked=0,0:00:31.66,0:00:32.33,Default,NTP,0000,0000,0000,!Effect,Ucieka³am...
+Dialogue: Marked=0,0:00:40.00,0:00:46.00,Default,NTP,0000,0000,0000,!Effect,Dzisiejszej nocy przestajê uciekaæ!\NDzisiejszej nocy rozpoczyna siê moja zemsta!
+Dialogue: Marked=0,0:00:46.06,0:00:48.50,Default,NTP,0000,0000,0000,!Effect,Min¹³ ponad rok odk¹d Kedar...
+Dialogue: Marked=0,0:00:50.00,0:00:51.66,Default,NTP,0000,0000,0000,!Effect,Odk¹d zgin¹³...
+Dialogue: Marked=0,0:00:52.00,0:00:57.33,Default,NTP,0000,0000,0000,!Effect,Pozwolili, bym uciek³a,\Nlecz wkrótce zap³ac¹ za ten b³¹d!
+Dialogue: Marked=0,0:00:58.66,0:01:03.00,Default,NTP,0000,0000,0000,!Effect,Muszê byæ cierpliwa. Mog³abym spróbowaæ zabiæ, ilu tylko zdo³am...
+Dialogue: Marked=0,0:01:03.33,0:01:06.43,Default,NTP,0000,0000,0000,!Effect,Mo¿e dorwa³abym dwóch czy trzech, zanim by mnie z³apali.
+Dialogue: Marked=0,0:01:06.66,0:01:10.33,Default,NTP,0000,0000,0000,!Effect,To nie wystarczy!\NZa miesi¹c nic by to ju¿ nie znaczy³o.
+Dialogue: Marked=0,0:01:10.66,0:01:12.66,Default,NTP,0000,0000,0000,!Effect,Oni nie dbaj¹ o siebie nawzajem.
+Dialogue: Marked=0,0:01:12.80,0:01:14.16,Default,NTP,0000,0000,0000,!Effect,Popyta³am trochê w okolicy...
+Dialogue: Marked=0,0:01:14.50,0:01:19.00,Default,NTP,0000,0000,0000,!Effect,Nikt nic nie wie o przemytnikach w s¹siedztwie.
+Dialogue: Marked=0,0:01:20.50,0:01:22.66,Default,NTP,0000,0000,0000,!Effect,Zastanawiam siê,\Nczy mog³abym to wykorzystaæ...
+Dialogue: Marked=0,0:01:23.00,0:01:28.56,Default,NTP,0000,0000,0000,!Effect,Z³odziej boi siê dwóch rzeczy:\N"bycia okradzionym" i "bycia z³apanym na okradaniu kogoœ innego".
+Dialogue: Marked=0,0:01:29.16,0:01:33.83,Default,NTP,0000,0000,0000,!Effect,Na szczêœcie mogê wykorzystaæ oba te lêki przeciw Wolnym Handlarzom.
+Dialogue: Marked=0,0:01:34.83,0:01:37.66,Default,NTP,0000,0000,0000,!Effect,Popo³udniu spotka³am siê z przyjacielem Malaka w S³onecznym Porcie
+Dialogue: Marked=0,0:01:38.00,0:01:39.50,Default,NTP,0000,0000,0000,!Effect,i kupi³am wszystko, co potrzebujê.
+Dialogue: Marked=0,0:01:40.00,0:01:43.33,Default,NTP,0000,0000,0000,!Effect,Dzisiejszej nocy planujê zakraœæ siê\Ndo ich siedziby,
+Dialogue: Marked=0,0:01:43.66,0:01:46.33,Default,NTP,0000,0000,0000,!Effect,by wykraœæ ich bogactwa oraz tajemnice.
+Dialogue: Marked=0,0:01:47.33,0:01:52.33,Default,NTP,0000,0000,0000,!Effect,Jeœli to prawda, kryjówka przemytników winna\Nbyæ gdzieœ w podziemnym systemie jaskiñ.
+Dialogue: Marked=0,0:01:52.66,0:01:55.83,Default,NTP,0000,0000,0000,!Effect,Dostanê siê tam przez sekretne wejœcie,\Nktóre widzia³am wczeœniej
+Dialogue: Marked=0,0:01:56.00,0:01:58.00,Default,NTP,0000,0000,0000,!Effect,i zobaczê, czy zdo³am siê czegoœ dowiedzieæ.
+Dialogue: Marked=0,0:01:58.93,0:02:02.93,Default,NTP,0000,0000,0000,!Effect,Kedar...\NWybacz, i¿ wczeœniej by³am bierna...
+Dialogue: Marked=0,0:02:04.33,0:02:07.50,Default,NTP,0000,0000,0000,!Effect,Linjalo!\NDodaj mi odwagi w tym, co muszê teraz uczyniæ.

@@ -1,0 +1,28 @@
+{460}{595} Nie rozumiem, Malak. | Jak to wszystko ma mi pomóc?
+{600}{770} Chcê tylko dowiedzieæ siê, kto zabi³ Kedara, | wzi¹æ swój statek oraz ³adunek i wróciæ do domu.
+{789}{880} Nigdy nie przypuszcza³am, ¿e coœ takiego mo¿e siê wydarzyæ...
+{930}{1000} To nie jest takie proste, Zaya. 
+{1005}{1180} Ju¿ nigdy nie bêdziesz mog³a w pe³ni czuæ, | je¿eli nie zemœcisz siê za to, co uczyniono Tobie i Twojemu kuzynowi.
+{1190}{1350} Nie wydaje mi siê to ca³kiem s³uszne. | Nie jestem morderczyni¹ ani z³odziejk¹.
+{1355}{1470} Nie umiem tak po prostu wejœæ do jakiegoœ miejsca i zasiêgn¹æ informacji.
+{1475}{1630} Nauczysz siê. Poka¿ê Ci. | Nigdy nie zabi³aœ cz³owieka?
+{1640}{1844} Có¿... Raz, lecz to by³ pirat próbuj¹cy ukraœæ | statek nale¿¹cy do mojej rodziny.
+{1846}{1890} Zas³u¿y³ na swój los.
+{1900}{1970} Tak samo jak zas³uguj¹ na niego zabójcy Twojego kuzyna.
+{1990}{2048} To nie jest czyste miasto, Zaya.
+{2050}{2240} Prosperuj¹ tutaj grzeszni i jadowici ludzie, | Ty zaœ  jesteœ jedn¹ z wielu osób, którzy ucierpieli z ich r¹k.
+{2244}{2448} Pragnê zemsty, o tak! Lecz... Czy nie ma prostszego wyjœcia?
+{2450}{2520} Nie ma ¿adnego innego wyjœcia!
+{2522}{2550} Twój kuzyn nie ¿yje.
+{2553}{2760} Nie mo¿esz wróciæ do domu, a nawet je¿eli byœ mog³a... | Zhañbi³abyœ rodzinê nie uzyskuj¹c zemsty!
+{2780}{2860} Krew Kedara plami Twe d³onie!
+{2890}{2960} Lecz to zale¿y od Ciebie.
+{2972}{3090} Je¿eli chcesz ¿yæ z tym ciê¿arem, | niech tak bêdzie.
+{3100}{3240} Nie mogê zmusiæ Ciê do zemsty, | która nale¿y tylko i wy³¹cznie do Ciebie.
+{3490}{3650} Tak! Zrobiê to... Zemszczê siê!
+{3655}{3735} Obiecujê ci to, Kedar.
+{3740}{3804} Nie wyjadê, dopóki tego nie dokonam. 
+{3850}{3900} Zrobiê wszystko, co w mej mocy.
+{3910}{4005} Kedar jest martwy, lecz nie ja...
+{4050}{4130} Zap³ac¹ za to, czego siê dopuœcili!
+{4148}{4240} A to chciwe i cuchn¹ce miasto równie¿ tego po¿a³uje!

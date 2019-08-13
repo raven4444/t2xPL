@@ -1,0 +1,28 @@
+{470}{595}I don't understand, Malak. | How can all of this help me?
+{600}{770} I just want to know who killed Kedar | then get my ship and cargo back so I can go home.
+{789}{880} I never thought something like this would happen...
+{930}{1000} It isn't simple as that, Zaya. 
+{1005}{1180}You will never again feel whole if you do not | obtain vengeance for what was done to you and your cousin.
+{1190}{1350} But it just doesn't seem quite right. | I'm not a murderer or a thief.
+{1355}{1470} I can't just walk into a place and take information.
+{1475}{1630} You'll learn how. I will teach you. | Have you never killed a man?
+{1640}{1844} Well, once, but it was a pirate trying to sneak | off with our family's ship.
+{1846}{1890} He deserved his fate.
+{1900}{1970} As your cousin's murderers deserve theirs.
+{1990}{2048} This is an unclean City, Zaya.
+{2050}{2240} The wicked and venomous thrive here and you are | but one in a line of many who have | suffered at their hands.
+{2244}{2448} I want revenge, yes, but isn't there a simpler way?
+{2450}{2520} There is no other way ! 
+{2522}{2550} Your cousin is dead.
+{2553}{2760} You cannot go home and even if you could, | you would SHAME your family by not exacting revenge!
+{2780}{2860} Kedar's blood stains your hands!
+{2890}{2960} But it is up to you.
+{2972}{3090} If you want to live with that burden, | then it is yours.
+{3100}{3240} I cannot force you to take the revenge | that belongs to you and you alone.
+{3490}{3650} Yes, I'll do it... I will take revenge.
+{3655}{3735} I promise you that, Kedar.
+{3740}{3804} I won't leave until I have it. 
+{3850}{3900} I'll do whatever I have to.
+{3910}{4005} Kedar is dead but I am not.
+{4050}{4130} I'll make them pay for what they've done.
+{4148}{4240} And this greedy, foul City will taste it, too.

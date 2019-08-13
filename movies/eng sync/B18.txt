@@ -1,0 +1,19 @@
+{200}{300} The great man learns from sorrow | The lesser man learns from fear
+{320}{480} To learn is to live | And for all, there is one great truth:
+{560}{680} With every growth, | we must shed our old skin.
+{690}{800} There is no heart so closed | that it cannot learn by pain."
+{810}{930} - Third Book of The Essence, Amaris
+{1115}{1320} Finally...this day has finally arrived and | I'll get to set sail on my own, with my own ship.
+{1335}{1507} I've fought for this opportunity for so long and now | I can barely believe this day is here.
+{1513}{1660}  I feel like a little child, filled with uncontrollable excitement.
+{1710}{1888} It'll be a long journey and I'll miss my family, | I know, but I've got to do this.
+{1890}{2055} I have to prove my worth.  | Not just to my family...but to myself.
+{2080}{2170} I'll be shipping some goods to a large City for trade.
+{2185}{2333} I've never been there before, | but it's rumored to be full of opportunity and wealth.
+{2405}{2458} At least I won't have to be there alone.  
+{2465}{2620} My cousin, Kedar, has been trading in the City for a while and | I have some cargo for him.
+{2645}{2710} We used to play together when we were kids.
+{2750}{2863} I haven't seen him in so long | but he wants me to visit his new shop.
+{2880}{2925} I've missed Kedar.
+{2975}{3090} I look forward to this challenge and I know that whatever may lay ahead,
+{3110}{3360} Linjala will watch over me and I'll enjoy every minute of my adventure | - even with the dangerous waters and approaching storms.

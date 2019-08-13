@@ -1,0 +1,25 @@
+{140}{270} "Zemsta - precyzyjne narzêdzie |w d³oniach sprawiedliwego,
+{280}{375} E¿by y kapryœni pokutê znaleŸli,| mszcz¹c siê na wrogach.
+{420}{520} Lecz zwa¿aj¿e na |ostrze sprawiedliwoœci robotniku, 
+{530}{645} E¿by w Tw¹ stronê owo narzêdzie| nie zosta³o obrócone.
+{720}{820} Y ran nie otwar³o,| których¿e œmieræ nie uleczy."
+{830}{920} "Dogmat M³otów"
+{965}{1000} M³otodzier¿cy...
+{1050}{1125} NajwyraŸniej nie s¹ zbyt popularni w Mieœcie.
+{1135}{1235} Lecz w S³onecznym Porcie to w³asnie oni tworz¹ literê prawa. 
+{1245}{1385} O ile mo¿na mówiæ o jakichkolwiek "zasadach" w krainie bezbo¿ników...
+{1400}{1525} Nowe stowarzyszenie zwane "Mechanistami"|zdaje siê wypêdzaæ ich z Miasta.
+{1528}{1610} Zatem M³otodzier¿cy wycofali siê|do osad na uboczu,
+{1620}{1720} jak chocia¿by S³oneczny Port,| gdzie zdaj¹ siê dobrze prosperowaæ.
+{1745}{1840} Niemniej jednak ci ludzie przebywaj¹ tutaj| ju¿ od jakiegoœ czasu.
+{1858}{1990} Nic nie wiem, ani te¿ nie dbam o ich tajemnicze religie, czy praktyki.
+{2000}{2120} Jednak M³oty mog¹ okazaæ siê pomocni przy za³atwieniu spraw z "przyjació³mi" przemytnikami.
+{2142}{2290} Nie wygl¹daj¹ na ludzi toleruj¹cych handel niewolnikami b¹dŸ przemyt dzie³ sztuki w swoim weso³ym miasteczku.
+{2366}{2512} Próbowa³am znaleŸæ wejœcie na ty³y oœrodka, lecz wydaje siê niedostêpne dla nowicjuszy.
+{2535}{2618} Muszê w³amaæ siê od frontu|i zobaczyæ, czy uda mi sie cokolwiek znaleŸæ.
+{2645}{2745} Nie mam jeszcze planu, | lecz musi istnieæ jakiœ sposób,
+{2755}{2860} by poinformowaæ fanatyków o istnieniu | nielegalnej siatki pod ich brzydkimi nosami.
+{2870}{2925} Jeœli mnie zobacz¹, jestem martwa.
+{2940}{3020} Mam przeczucie, ¿e nie toleruj¹ goœci,
+{3030}{3080} w szczegolnoœci kobiet...
+{3090}{3215} Chcia³abym jednak ujrzeæ ich podczas masakrowania m³otami zabójców Kedara.

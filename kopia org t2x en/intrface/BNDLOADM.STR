@@ -1,0 +1,7 @@
+// string file for anims.
+// Format is list of anims
+// then x,y fps (r|l)
+// where 'r' means reverse, and 'l' means loop normally
+list: "gamla gamlb"
+gamla: "351,253 15.3 r"
+gamlb: "358,171 15.6 r"
